@@ -286,7 +286,6 @@
 आहलणा	:	The Nest
 आख्यर	:	The end
 आऴी	:	Our's
-आला-राशी	:	Hotchpotch
 आल्ला	:	Wet
 आळ्कस	:	Laziness
 आँधळा	:	to pick up 
@@ -312,12 +311,10 @@
 असल का	:	One’s real
 असनाई	:	The relatives' village
 अस्टा	:	Hard
-औळ-सौळ	:	 hanky-panky 
 ओळा	:	left side
 औळिया	:	left-hander 
 औसणना	:	To mix 
 ओट	:	To hide
-अराड़े-भुराड़े	:	Ugly-looking
 अटेहटा	:	A time consuming
 औड़	:	The end
 बर्रा	:	thick rope
@@ -502,7 +499,6 @@
 आड़ै	:	here
 हाड़ै	:	here
 इंघानै	:	This way
-उरे-नै	:	This way
 ईब	:	just
 ईबै	:	just
 उंघे	:	there
@@ -519,26 +515,19 @@
 कड़ै	:	Where
 किंघानै 	:	which way
 किंघानै 	:	where
-किंघां-कै	:	from which side
 केभरा      	:	Perhaps
 कद        	:	When
 कदे	:	sometimes
-कद्दे-तैं 	:	ever since
-कद्दे-तैं 	:	as always
 कूण	:	Who
 कित्तैं	:	From where
-कड़े-तैं 	:	From where
 कींहका 	:	Whose
 कींहकी  	:	Whose
 किसा	:	How
 किसी	:	How
-किम्मै                 	:	Anything
-कित्तै-हो	:	anywhere
-कित्तै-बी	:	anywhere
+किम्मै	:	Anything
 कोड	:	how big
 कोडेक	:	how big
 कोडोड़	:	How long
-क्यूकर-ए बी	:	anyhow
 तन्नै	:	You
 मन्नै	:	Me
 म्हारा	:	Our
@@ -548,20 +537,13 @@
 जिब्बै  	:	Then
 जित	:	Where
 जड़ै	:	Where
-जित-बी	:	wherever
-जड़ै-बी	:	wherever
 ऊँ	:	By the way
-ऊँ-तै	:	By the way
 जणूं	:	like
-जणूं-तै	:	like
 न्यूंन	:	that side
 न्यूंनै	:	that side
-न्यूं-ऐं	:	just like
 लग	:	until
 परला	:	over there
-परे-नै	:	there
 रै	:	Oho
-आंह-रै	:	Oho
 सै	:	Is
 ऊकना	:	miss
 दाबना 	:	Press
