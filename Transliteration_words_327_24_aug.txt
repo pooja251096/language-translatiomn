@@ -1,0 +1,6907 @@
+छांटणा	:	Being oversmart 
+कदन	:	day
+अलग	:	different
+कररए	:	do
+कुवाड	:	door
+नीचे	:	down
+धरती	:	earth
+खाना	:	eat
+खतम	:	end
+बोहत	:	enough
+सारे	:	every
+उधारन	:	example
+आख	:	eye
+मुह	:	face
+कुणबा	:	family
+पेर	:	foot
+धोडा	:	few
+पाया	:	find
+पहला	:	first
+खाणा	:	food
+पाणा	:	get
+छोरी	:	girl
+देणा	:	give
+जाणा	:	go
+आच्या	:	good
+माहण	:	great
+बडना	:	grow
+था	:	Had
+करडा	:	hard
+सुनाया	:	hear
+मदद	:	help
+ऊचा	:	high
+ताता	:	hot
+घर	:	house
+मै	:	I
+जवचार	:	Idea
+जरूरी	:	Important
+चीज	:	Item
+राखीए	:	Keep
+दयालु	:	Kind
+जपछाणा	:	Know
+धरती	:	Land
+बडा	:	Large
+आखरी	:	Last
+बादम	:	Later
+सीखणा	:	Learn
+छोडीए	:	Leave
+बाया	:	Left
+चालो	:	Let
+चीठी	:	Letter
+जींदगी	:	Life
+रोशनी	:	Light
+जीसा	:	Like
+लन	:	Line
+प्रची	:	List
+थोडा	:	Little
+जीणा	:	Live
+लाम्बा	:	Long
+देजखए	:	Look
+खोया	:	Lose
+बनानाणा	:	Make
+आदमी	:	Man
+घणे	:	Many
+मतलब	:	Mean
+जमलणा	:	Meet
+बीचम	:	Mid
+दधू	:	Milk
+गलती	:	Mistake
+ज्यादा	:	More
+मााँ	:	Mother
+पाड	:	Mountain
+चाल	:	Move
+बोत	:	Much
+कुहणी	:	elbow
+कोणी	:	elbow
+पट्ट	:	thigh
+झोटा	:	masculine
+सीळै	:	soft weather
+एड्डी 	:	Heel
+आबल	:	More
+आड 	:	for hiding
+आढळ 	:	cover-up 
+आहलणा 	:	Nest 
+आहो	:	Yes
+आख्यर	:	Extreme
+तावळा	:	Fast
+चिकणा	:	Smooth
+लुगाई	:	Ladies
+सपोड़ा	:	Slapping
+घाम	:	Sunlight
+घणा	:	Very
+डांगर	:	Animal
+मूसा	:	Rat
+गंडा	:	Sugarcane
+झोला	:	Basket
+खाट	:	Bed
+बारणा	:	Gate
+एल्डगोजा	:	Flute
+बालाड	:	Ox
+बलध	:	Bull
+बलियां	:	Baniyaan
+बाराफ़ी	:	ice-cream
+बीजना	:	Hand fan
+भरोटा	:	bajra
+बुखारी	:	fever
+चमसा	:	Rainy season
+चिपकली	:	Lizard
+चुचुंदर	:	Bat
+च्यानहनी	:	Funeral place
+डाक	:	Jump
+दम्हुई	:	Double headed 
+डैंडरी	:	Childs teeth
+डांगार	:	Animal stock
+धीड़	:	Drainage
+धीरा	:	Headlice
+धिदाय	:	Eye
+धूमा	:	Smoke
+डूबो	:	grass
+गाली	:	abuse
+गभा	:	Old
+गबसुआ	:	Safety pin
+गंडे	:	Sugarcane
+जिएंडो	:	Ball
+घैती	:	Neck
+गूथी	:	Ring
+गोसा	:	Dungcake 
+जादा	:	winters
+जर्सी	:	 sweater
+जंगल	:	forest
+जुर्राब	:	Socks
+कागो	:	Crow
+खुरमा	:	Aunt
+कालाशो	:	Kajal
+करेलकांति	:	Chameleon
+कसानो	:	Utensil
+खांचा	:	 mud
+खासोतनी	:	Itching
+खाज	:	Itching
+खाती	:	Cot 
+खुता	:	 hope
+किवाडी	:	Door
+कूट्रु	:	Dog
+कुंडी	:	Darwja
+कुंडा	:	Darwja
+लप्सी	:	Dish
+लाटे	:	Clothes
+लीटर 	:	Seet
+लिहाफ़	:	Quilt
+लंदन	:	London
+मीहो	:	Rain
+मुंजिक	:	miser
+नाहु	:	Nails
+ओले	:	Hails
+ऊटी	:	Naughty
+पादकला	:	Staircase
+राचो	:	Things.
+रासा	:	 rope
+रासी	:	 rope
+रीत	:	Snort
+साग	:	Vegetable
+सकली	:	Door nob
+साँप	:	Snake
+सागाई	:	engagement
+सउद	:	Quilt
+श्याना	:	Clever 
+सुथानी	:	shorts
+टूकानि	:	Shiny 
+ट्यूबल	:	Tubewell
+यादी	:	Friend
+दुरू	:	Away
+पिचहे	:	Back
+बुरा 	:	Bad
+प्रतिबंध	:	Ban
+क्योंकि	:	Because
+होना	:	Become
+बिस्तर	:	Bed
+शुरुकर्ण	:	Begin
+ताक	:	Below
+बारा	:	Big
+पुस्तक	:	Book
+डोनो	:	Both
+लरका	:	Boy
+लाना	:	Bring
+परांतु	:	But
+लेकिन	:	But
+द्वार	:	By
+बुलाना	:	Call
+सकना	:	Can
+कनास्टर	:	Canister
+कर	:	Car
+बदलाना	:	Change
+बच्चे	:	Children
+शहर	:	City
+बैंड	:	Close
+ठंडा	:	Cold
+आना	:	Come
+कफ	:	cough
+देश	:	country
+कटना	:	cut
+दैनिक	:	daily
+शोर	:	day
+भिन्नी	:	different
+दरवाजा	:	door
+ताक	:	down
+चींटी	:	end
+पर्यपति	:	enough
+प्रत्यय	:	every
+उड़ानारणी	:	example
+आंख	:	eye
+चेहरा	:	face
+परिवार	:	family
+जोड़ा	:	foot
+पाना	:	find
+प्रथम	:	first
+भोजन	:	food
+पाना	:	get
+देना	:	give
+जना	:	go
+अच्छा	:	good
+महान	:	great
+समुहू	:	group
+बदना	:	grow
+कैथिन	:	hard
+हाय	:	has
+वही	:	he
+महोदय	:	head
+सुनाना	:	hear
+मदद 	:	help
+याहानी	:	here
+ऊंचा	:	high
+गरमी	:	hot
+घरो	:	house
+कैसे	:	how
+विचार	:	Idea
+यादी	:	If
+महात्वपूर्ण	:	Important
+वास्तु	:	Item
+रखना	:	Keep
+दयालू	:	Kind
+जनाना	:	Know
+भूमि	:	Land
+विशाल	:	Large
+एंटिमो	:	Last
+छोडना	:	Leave
+बाएने	:	Left
+चलो	:	Let
+पात्रा	:	Letter
+चिट्ठी	:	Letter
+जीवन	:	Life
+जिंदगी	:	Life
+प्रकाश	:	Light
+पसंद	:	Like
+रेखा	:	Line
+सुची	:	List
+जीना	:	Live
+लांबा	:	Long
+नज़र	:	Look
+रूप	:	Look
+खोना	:	Lose
+मुखी	:	Main
+प्रधान	:	Main
+केला	:	Make
+अनेक	:	Many
+बहुतो	:	Many
+मिलना	:	Meet
+मध्य	:	Mid
+दुध	:	Milk
+गलत	:	Mistake
+अधिक	:	More
+ज्यदा	:	More
+मां	:	Mother
+पहाड़ो	:	Mountain
+चलना	:	Move
+बहुत	:	Much
+मेरा	:	My
+रास्ता	:	near
+जरूरत	:	need
+लट्ठबाज	:	They are fighting.
+आवागा	:	Will come
+आवागी	:	Will come
+एड्डी	:	Heel
+आबल	:	plenty
+आबल	:	More
+आड	:	cover-up
+आढळ	:	To cover-up 
+आहलणा	:	The Nest
+आख्यर	:	The end
+आऴी	:	Our's
+आला-राशी	:	Hotchpotch
+आल्ला	:	Wet
+आळ्कस	:	Laziness
+आँधळा	:	to pick up 
+आंखळी	:	Uneven
+आँट	:	Obstacle
+अगाऊ	:	In advance
+अगेत	:	Early
+अगनाया	:	The angry person
+अक्खर	:	word
+अळबाद	:	Mischief
+अळगोजा	:	flute
+अळभेडा	:	Twistted rope
+अळ्झेड़ा	:	The quarrel
+अमरीका	:	USA
+अंडास	:	Obstacle
+अँधोड़	:	Strong wind
+अंगार	:	coal
+अंघाई	:	Mischief
+अणहवी	:	Unexpected
+अणमीता	:	Plentiful
+अफलातून	:	Loadful
+असल	:	really
+असल का	:	One’s real
+असनाई	:	The relatives' village
+अस्टा	:	Hard
+औळ-सौळ	:	 hanky-panky 
+ओळा	:	left side
+औळिया	:	left-hander 
+औसणना	:	To mix 
+ओट	:	To hide
+अराड़े-भुराड़े	:	Ugly-looking
+अटेहटा	:	A time consuming
+औड़	:	The end
+बर्रा	:	thick rope
+बा	:	grandfather
+बाबत	:	related to
+बाधी	:	strip
+बाद्दी	:	Obesity
+बाही	:	arms
+बाण्य	:	Habit
+बाँस	:	odour
+बारजा	:	Balcony
+बारणा	:	Outside
+बचूरे	:	Small Children
+बगाणा	:	To throw
+बग्गी	:	Bull cart
+बधाण	:	A long
+बहड़का	:	Young bull
+बैरण	:	Enemy
+बळध	:	Bull
+चाळा	:	Strange
+चाम	:	Leather
+चालू	:	clever 
+चमासा	:	Rainy season
+चंभोचाळी	:	A sharp
+चानचक	:	Suddenly
+चकूटा	:	Four-cornered
+चमौला	:	joke
+चानदणा	:	Dawn
+चणक	:	The neck pain
+चपाड	:	Community Hall
+चपड़स	:	cloth
+चर	:	The small
+चर्खा	:	Spinning
+चौखटा	:	forehead
+चीकला	:	Baby sparrow
+चीथना	:	To crush
+छब्बाक	:	Long jump
+छात	:	Roof
+छीदा	:	scattered
+छेछर	:	overreact
+छीदा	:	Rare
+छेतणा	:	To beat 
+छिकमा	:	In plenty
+छिपकली	:	Lizard
+छ्यावा	:	house
+छ्यावा	:	Shelter
+आया 	:	Came
+धोरै	:	slow
+ध्याड़ी	:	Wages
+डिठौरा	:	The pride
+दोहरां	:	Double
+डूबा-ढेरी	:	Heavy flood
+डूंघा	:	Deep
+दूब	:	grass
+डोवटी	:	The thick
+दुड़की	:	The mini race
+दुकड़िया	:	A room
+दस्त	:	Dysantry
+एकड़वासी	:	The lonely place
+फाफोटे	:	Show-off
+फल्लारी	:	for ride
+फरहड़े	:	The dry
+फटफटी	:	motor-cycle
+फुसफुसी	:	The lose
+गादड़	:	Jackal
+गागड़	:	The long
+गडराणा	:	to answer
+गामौली	:	villager
+गार	:	mud
+गाळ	:	street
+गाभरू	:	A young man
+गभसूवा	:	Safety pin
+गड़ंग	:	boasts
+गैल	:	With
+गळामा	:	Rope
+गलहूरा	:	Chee
+गंधीला	:	Dirty
+गंठा	:	The onion
+गरेड़ा	:	obstacle
+गवहेरा	:	A wild
+गींडो	:	Ball
+गीत	:	Local songs
+घेंसळा	:	The rough
+घणा	:	Too much
+घनखरे	:	Many of them
+घरवासा	:	Family life
+घट्टा	:	Hole
+घिचमिच	:	congested
+घिलौठ	:	A sweet
+घिन	:	Hatred
+घिणका	:	Dense
+घूघी	:	A small bird
+बिलकुल	:	Ofcourse
+सवाल	:	questions 
+अंतिम	:	the last
+खेत	:	farm
+स्वाद	:	tasty
+कलम	:	pen
+मौसम	:	weather
+नरम	:	soft
+नरम	:	mild
+गर्मी 	:	heat
+जिगर	:	liver
+बाल	:	hair
+ओड 	:	so big
+कदे   	:	sometimes
+कदे-कदे  	:	sometimes
+टुकेक	:	a little
+जिब	:	then
+जिब्बै	:	then
+री	:	ari
+चक्कर	:	problem
+सटारट	:	start 
+टैर	:	tire 
+पैटक	:	packet 
+पालश	:	polish 
+चानस	:	chance 
+रिपट	:	rivet 
+गेर	:	gear 
+स्टोप	:	stove 
+राड	:	rod 
+ड्राम	:	drum 
+रपिया	:	rupee 
+खिन्नु	:	ball 
+मटठो	:	kiss 
+भीत	:	wall 
+ओटडा	:	small wall 
+जंगला	:	window 
+मीह	:	rain 
+छोह	:	anger 
+छांत	:	roof 
+टीकड़े	:	bread 
+डेगचून	:	wrought iron 
+खाट	:	chaarpai
+सोड 	:	quilt 
+गदेला	:	quilt 
+गूदडा	:	bed 
+बिटोडा	:	dung heap 
+डांगर	:	cattle 
+खसम	:	husband 
+जमात	:	class 
+आडू	:	fool 
+एंडी 	:	good 
+चोखा	:	good 
+गावड़ी	:	cow 
+डाँख	:	bhains 
+आला	:	niche 
+बाजा	:	music system 
+दीदे	:	eyes 
+नास	:	nose 
+थोबड़ा	:	face 
+आल 	:	naughtiness
+अलबाद	:	naughtiness
+बुलध	:	bull 
+याड़े	:	here 
+उडे	:	there 
+भरोटा	:	cattle fodder 
+गोस्सा	:	dried dung 
+जेवड़ी	:	rope 
+सूं	:	oath 
+कड़	:	human back 
+कसूता	:	extreme 
+गार	:	mud 
+टूम	:	ornaments 
+सुआ	:	injection 
+हल्लन	:	earthquake 
+फेटना	:	to meet
+दागदर	:	doctor 
+मौड	:	saint 
+टाबर	:	child 
+गाबरू	:	young 
+बुढला	:	old man 
+गंडासा	:	butifully lady
+ गाम	:	village
+हम्बै	:	Yes
+‍कड़ै?	:	where
+कित?	:	where
+चुप 	:	silent
+ओड	:	so big
+इंघे	:	here
+इत	:	here
+आड़ै	:	here
+हाड़ै	:	here
+इंघानै	:	This way
+उरे-नै	:	This way
+ईब	:	just
+ईबै	:	just
+उंघे	:	there
+उत	:	there
+परै	:	there
+ऊड़ै	:	there
+हूड़ै	:	there
+उरला                   	:	the one here
+ओढ़ाणै	:	now
+ओढ़ाणै	:	This time
+कोढ़ाणै	:	When
+कोढ़ाणै	:	At what time
+कित	:	Where
+कड़ै	:	Where
+किंघानै 	:	which way
+किंघानै 	:	where
+किंघां-कै	:	from which side
+केभरा      	:	Perhaps
+कद        	:	When
+कदे	:	sometimes
+कद्दे-तैं 	:	ever since
+कद्दे-तैं 	:	as always
+कूण	:	Who
+कित्तैं	:	From where
+कड़े-तैं 	:	From where
+कींहका 	:	Whose
+कींहकी  	:	Whose
+किसा	:	How
+किसी	:	How
+किम्मै                 	:	Anything
+कित्तै-हो	:	anywhere
+कित्तै-बी	:	anywhere
+कोड	:	how big
+कोडेक	:	how big
+कोडोड़	:	How long
+क्यूकर-ए बी	:	anyhow
+तन्नै	:	You
+मन्नै	:	Me
+म्हारा	:	Our
+म्हारो	:	Our
+थारा	:	your
+थारो	:	your
+जिब्बै  	:	Then
+जित	:	Where
+जड़ै	:	Where
+जित-बी	:	wherever
+जड़ै-बी	:	wherever
+ऊँ	:	By the way
+ऊँ-तै	:	By the way
+जणूं	:	like
+जणूं-तै	:	like
+न्यूंन	:	that side
+न्यूंनै	:	that side
+न्यूं-ऐं	:	just like
+लग	:	until
+परला	:	over there
+परे-नै	:	there
+रै	:	Oho
+आंह-रै	:	Oho
+सै	:	Is
+ऊकना	:	miss
+दाबना 	:	Press
+घालणा	:	insert
+गेरणा 	:	Throw
+भीजणा	:	get wet
+खोसणा	:	To snatch away
+खिंढ़ाणा	:	to scatter
+सापड़णा 	:	End
+घुरड़ना	:	to roll over
+लिकड़णा 	:	to get out
+नावड़ना 	:	get absorbed
+सिंगवाना	:	crimp
+बळना 	:	Burn
+खुरकाना	:	to threaten
+बूसना 	:	wither
+फेटना 	:	To meet
+सांभरणा 	:	crimp
+बेबे	:	sister
+भांण 	:	sister
+बीरा	:	brother
+बीर 	:	brother
+बाबू	:	father
+बापू 	:	father
+माँ 	:	mother
+धणी	:	husband
+भरतार	:	husband
+खसम	:	husband
+घरआळा 	:	husband
+लुगाई	:	wife
+बिरबानी	:	wife
+घरआली	:	wife
+घरबैरण 	:	wife
+ताऊ 	:	uncle
+काका	:	uncle
+चाचा 	:	uncle
+ताई	:	aunty
+काकी 	:	aunty
+दादा 	:	grandfather
+दादी 	:	grandmother
+पड़दादा 	:	great grandfather
+पड़दादी	:	great grandmother
+मौसी 	:	aunty
+ननद 	:	sister law
+लटूर	:	hair
+सर	:	head
+थोबड़ा 	:	mouth
+नास्टी 	:	nose
+घेटी	:	neck
+घिटी	:	neck
+दीदे 	:	eyes
+दांद	:	teeth
+ठुड़ी 	:	chin
+बासळा 	:	backdisk
+आथ 	:	hand
+आँगळी	:	finger
+कड़	:	back
+कोणी	:	albow
+कुहणी 	:	albow
+गोड़ा 	:	nee
+टाकणा 	:	ankle
+पाँ 	:	leg
+सातल	:	thigh
+जिगड़ा 	:	liver
+आँतड़ी	:	intestine
+डिग्गी 	:	sixpack abs
+गौ	:	cow
+गऊ	:	cow
+बोडर 	:	cow
+बलध 	:	ox
+बछि	:	calf of cow
+बाछड़ा 	:	calf of cow
+खोला	:	Buffalo
+खोलड़ा	:	Buffalo
+मैंस 	:	Buffalo
+झोटा 	:	masculine
+काटड़ा	:	calf
+काटडू 	:	calf
+टेम	:	time
+बख़्त	:	time
+घड़ी 	:	time
+सूबेरे	:	Morning
+दफैरी 	:	noon
+साँझ	:	evening
+रैत 	:	night
+घर	:	home
+कौथा 	:	Which one
+कौथी 	:	Which one
+के	:	What
+तेरा	:	Your
+चिघनान	:	False show
+अनारसिंह	:	Anarsingh
+अतरसिंह 	:	Atrsingh
+अमनसिंह 	:	Aman Singh
+अन्तराम 	:	Antaraam
+अजबसिंह	:	Ajab Singh
+ अभयसिंह 	:	Abhay Singh
+अमरसिंह 	:	Amar Singh
+अजमेरसिंह 	:	Ajmer Singh
+अमीचंद 	:	Amichand
+अमीरसिंह 	:	Amir Singh
+आशाराम 	:	Asharam
+आजादसिंह	:	Azad Singh
+ आसानन्द 	:	Aasaanand
+आनन्दसिंह 	:	Anand Singh
+आयाराम	:	Ayaram
+ओमबीर	:	Omabeer
+ईश्वरसिंह	:	Ishwar Singh
+इन्द्राज 	:	Indraj
+उदयसिंह 	:	Uday Singh
+उमेदसिंह 	:	Umed Singh
+उदमीराम 	:	Udmiram
+उदयपाल 	:	udaipal
+उदयवीरसिंह 	:	Udayveer Singh
+उमरावसिंह 	:	umrao Singh
+ऊदल 	:	oodal
+ऋषिपाल	:	Rishi Pal
+कलीराम 	:	Kaliram
+कश्मीरी	:	kashmeeree
+कदमसिंह 	:	Kadam Singh
+कमले 	:	Kamale
+करतारसिंह 	:	Kartar Singh
+करमबीर 	:	karambir
+करोड़ी 	:	crores
+कन्हैया	:	Kanhaiya
+कंवरसिंह 	:	Kanwar Singh
+कपूरसिंह 	:	kapur singh
+कबूलसिंह	:	Kabul Singh
+ कप्तानसिंह 	:	Kaptan Singh
+करनलसिंह 	:	karnal singh
+कंवलसिंह 	:	Kanwal Singh
+कांशीराम 	:	kanshiram
+कामराज	:	Kamaraj
+ कालूराम 	:	kaluram
+किशोरीलाल 	:	Kishori Lal
+किदारसिंह	:	kidar singh
+ किरणपाल 	:	Kiran Pal
+किसनसिंह 	:	kisan singh
+किशनलाल 	:	Kishan Lal
+कीरता 	:	keerata
+किइकरसिंह 	:	kikar singh
+कुन्दनलाल 	:	kundanlal
+कूड़ेमल 	:	koodemal
+केलाराम	:	kelaram
+ केहरीसिंह	:	Kehri Singh
+ केवलसिंह	:	Kewal Singh
+ केशोराम	:	keshoram
+खेमचंद 	:	khemchand
+खीमा 	:	Kheema
+खजानसिंह 	:	Khajan Singh
+ख्यालीराम 	:	khyaliram
+खुशीराम 	:	khushiram
+खुशिया 	:	khushiya
+खैरातीलाल 	:	Khairatilal
+खूबचन्द	:	khubchand
+घड़ूका 	:	pitcher
+घासीराम 	:	ghasiram
+घनश्याम 	:	ghanshyam
+घीसूमल 	:	Ghisumal
+घोटूराम	:	ghoturam
+ घुड़श्याम 	:	ghudashyaam
+घरेला	:	household
+गणेशी 	:	Ganeshi
+गणपतराय 	:	Ganpatrai
+गंगाराम	:	Gangaram
+ गजेन्द्रसिंह	:	Gajendra singh
+ गयाराम	:	gayaram
+गजेसिंह	:	Gajesingh
+ गिरधारी 	:	Girdhari
+गूगन 	:	googan
+गुणिया	:	virtuoso
+ गुलराज 	:	Gulraj
+गुलाबसिंह 	:	Gulab Singh
+गुलजारी 	:	Gulzari
+गूदड़सिंह	:	Gudar Singh
+ गेंदाराम 	:	gendaaraam
+गोधा 	:	godha
+गोपीराम 	:	gopiram
+गोरधन 	:	Gordhan
+गोकलसिंह 	:	gokal singh
+गोधूरामम 	:	godhuramam
+गुट्टी	:	gutti
+चरणसिंह 	:	Charan Singh
+चन्दगीराम 	:	chandgiram
+चन्द्रभान 	:	Chandra Bhan
+चतरसिंह	:	Chatar Singh
+ चन्दूलाल 	:	chandulal
+चन्दरसिंह 	:	Chandra Singh
+चन्दन 	:	Chandan
+चन्दरूप 	:	chandroop
+चतरभुज 	:	ctarbhuj
+चांदराम 	:	Chandram
+चान्डू 	:	Chandu
+चांदबीर 	:	Chandbir
+चुन्नीलाल 	:	chunilal
+चुन्नीराम 	:	chunniram
+चिरंजीलाल 	:	chiranjilal
+चेतराम 	:	Chetram
+चैनसिंह	:	Chain Singh
+छज्जूमल 	:	chhajumal
+छत्तरसिंह 	:	Chattar Singh
+छाजूराम 	:	Chhajuram
+छोटूराम 	:	chhoturam
+छोटेलाल 	:	chhotelal
+छेल्लू 	:	chellu
+छेत्रपाल 	:	chhetrapal
+छेदिलाल	:	Chhedilal
+जगराम 	:	JagRam
+जगदीश 	:	Jagdish
+जगरूप 	:	Jagroop
+जगतराम 	:	Jagatram
+जवाहरा 	:	Jawahar
+जसमेर 	:	jasmer
+जगमेन्द्र 	:	jagmendra
+जगदेवसिंह 	:	Jagdev Singh
+जगमालसिंह 	:	Jagmal Singh
+जसवन्तसिंह 	:	Jaswant Singh
+जलजीत 	:	jaljit
+जगजीत 	:	Jagjit
+जसराम 	:	jasram
+जयकुमार 	:	Jayakumar
+जयनारायण 	:	jayanarayan
+जलसिंह 	:	jalasingh
+जलकरण 	:	jalakaran
+जयकरण 	:	Jaikaran
+जयवीर 	:	Jaiveer
+जयदेव 	:	Jaydev
+जयपाल 	:	Jaipal
+जयसिंह	:	jaisingh
+ जमनादास 	:	Jamnadas
+जागेराम	:	Jageram
+ जिलेसिंह 	:	jilesingh
+जीतराम 	:	jeetram
+जसबीर 	:	Jasbir
+जीवनलाल	:	Jeevan Lal
+ जुगलाल 	:	Juglal
+जुगलकिशोर 	:	Jugalkishore
+जुगता 	:	jugta
+जुगती 	:	Jugti
+जोगिन्द्र 	:	joginder
+जोधाराम 	:	jodharam
+जोरावरसिंह	:	joravarsingh
+ जैना	:	Jaina
+झब्बू 	:	Jhabbu
+झगड़ूमल 	:	jhagadoomal
+झन्डूमल 	:	Jhandumal
+झूलाराम 	:	Jhularam
+झाडुसिंह	:	Jhadusingh
+टेकचन्द 	:	Tekchand
+टेकराम 	:	Tekram
+टहलराम 	:	thalram
+"टीकाराम"	:	tikaram
+"ठाकरिया"	:	Thakaria
+डालचन्द 	:	Dalchand
+डूंगरसिंह 	:	Dungar Singh
+डडु 	:	dadu
+डीघराम	:	dighram
+ढ़ालाराम 	:	dhaalaram
+ढ़ोलू	:	Dholu
+तसबीरसिंह 	:	tasbirsingh
+तखतराम 	:	takhataraam
+ताजसिंह 	:	taajsingh
+ताराचंद 	:	Tarachand
+ताजमल 	:	taajamal
+ताल्लेराम 	:	taalleraam
+तारीफसिंह 	:	taareephasingh
+तिरखा 	:	tirakha
+तीरथराम 	:	Tiratharam
+तेजबीर 	:	Tejbir
+तोखराम	:	tokhram
+ तोताराम	:	totaram
+थानसिंह 	:	Thansingh
+"थावरिया"	:	Thawaria
+दलबीर 	:	Dalbir
+दयाकिशन 	:	Dayakishan 
+दलेलसिंह	:	Dalelsingh
+दरियावसिंह 	:	Dariyavsingh 
+दलजीत 	:	Daljit 
+दाखेराम	:	Dakheram 
+ दीपचंद 	:	Deepchand
+दिलबाग 	:	 Dilbagh
+दिलावर 	:	 Dilawar
+दीवानसिंह 	:	 Diwansingh 
+दुलीचंद 	:	Dulichand
+देवकराम 	:	 Devkaram 
+देवीलाल 	:	DeviLal 
+देसराज 	:	Desraj 
+दौल्लीराम	:	Daulliram
+ दौलतराम	:	 Daulatram
+धरमसिंह 	:	Dharam Singh
+धरमपाल 	:	dharampal
+धरमवीर	:	dharamveer
+ धजाराम 	:	dhajaram
+धीरपाल 	:	Dhirpal
+धूपसिंह 	:	Dhoop Singh
+धूपल 	:	Dhupal
+धनपाल 	:	Dhanapal
+धन्सीराम 	:	dhansiram
+धज्जाराम	:	dhajjaram
+नन्दू 	:	Nandu
+ननकूराम 	:	nankuram
+नन्दराम 	:	Nand Ram
+नवलसिंह 	:	Naval Singh
+नफेसिंह	:	nafesingh
+ नरसिंह 	:	Narasingh
+नसीबसिंह 	:	naseeb singh
+नत्थूराम	:	nathuram
+ नन्नूराम 	:	nannuram
+न्यादर	:	Nyadar
+ नान्हें 	:	naanhen
+नान्हड़ 	:	Nanhad
+नानकचंद 	:	Nanakchand
+नाहड़सिंह 	:	naharsingh
+निहालसिंह	:	Nihal Singh
+ निहालू 	:	Nihalu
+निगाहीया 	:	nigaaheeya
+नेतराम 	:	netram
+नेकीराम 	:	nekiram
+नैनसुख	:	Nainsukh
+ नौरंग	:	Naurang
+पदमसिंह	:	padam singh
+ पन्नालाल 	:	pannalal
+पीरदान 	:	Peerdan
+प्रभातीलाल 	:	Prabhatilal
+परसराम 	:	parasram
+प्रेमसिंह 	:	Prem singh
+प्रताप 	:	Pratap
+पतराम 	:	Patram
+पवनसिंह 	:	Pawan Singh
+प्रिथीसिंह	:	Prithi Singh
+ प्यारेलाल	:	Pyarelal
+ परमा 	:	parma
+पल्टू 	:	Paltu
+प्रभु 	:	Lord
+पूरणसिंह 	:	Pooran Singh
+पूरणमल 	:	Pooranmal
+प्रहलादसिंह	:	Prahlad Singh
+फतेहसिंह	:	Fateh Singh
+फत्ते	:	Fatte
+फूलसिंह 	:	Phool Singh
+फूलकवार 	:	phoolakavaar
+फौजु	:	Fauju
+बनवारीलाल	:	Banwari Lal
+ बदले 	:	badale
+बदलू	:	Badlu
+ बदामसिंह	:	Badam Singh
+ बनारसी 	:	Banarasi
+बलवन्त 	:	balavant
+बदनसिंह 	:	Badansingh
+बलबीर 	:	Balbir
+बनीसिंह 	:	Banisingh
+बल्लेराम 	:	balleram
+बल्लू	:	Ballu
+ बखतावर	:	Bakhtawar
+ बलजीत 	:	Baljeet
+बलदेव 	:	Baldev
+बलवान 	:	balavaan
+बलराज 	:	Balraj
+ब्रहमा 	:	Brahma
+बन्शीलाल 	:	banshilal
+बक्षीराम 	:	bakshiram
+बसन्त 	:	basant
+बस्तीराम 	:	Bastiram
+बारूराम 	:	baruram
+बाघेराम 	:	Bagheram
+बालकिशन	:	Balkishan
+बिसंबर 	:	December
+बिजेसिंह	:	bijesingh
+ बिजेन्द्र 	:	bijendra
+बीरबल 	:	Birbal
+बुद्धूराम 	:	buddhuram
+बुधराम	:	Budhram
+बेगराज 	:	Begraj
+बेड़ासिंह	:	bedasingh
+भरतू 	:	Bhartu
+भरते 	:	bharate
+भरतसिंह 	:	Bharat Singh
+भगवानसिंह 	:	Bhagwan Singh
+भगवाना 	:	bhagavaana
+भलेराम 	:	Bhaleram
+भगतराम 	:	Bhagatram
+भंवरसिंह 	:	Bhanwar Singh
+भालसिंह 	:	bhalsingh
+भानेराम 	:	Bhaneram
+भागमल 	:	Bhagmal
+भीमसिंह 	:	bhim singh
+भीखू 	:	bheekhoo
+भीकमसिंह 	:	Bhikam Singh
+भून्डे 	:	bhunde
+भूपसिंह	:	Bhupsingh
+ भूरा 	:	bhoora
+भूरेलाल 	:	Bhure Lal
+भोलाराम 	:	bholaram
+भैयाराम 	:	Bhaiyaram
+"भान"	:	bhaan
+मनफूल 	:	Manphool
+मनसाराम 	:	mansaram
+मनबीर	:	manbir
+ मलूका 	:	Maluka
+मनोहरलाल 	:	Manohar Lal
+महासिंह 	:	Maha Singh
+महीपाल	:	Mahipal
+ महताबसिंह 	:	Mahtab Singh
+मनकेराम 	:	mankeram
+मनीराम 	:	maniram
+मंगतराम 	:	mangatram
+मंगलू 	:	manglu
+माईधन 	:	Maidhan
+मातादीन 	:	maataadeen
+माधोसिंह	:	Madho Singh
+ मामनसिंह 	:	mamansingh
+मामचंद 	:	mamchand
+मामसिंह 	:	Mamsingh
+मांगेराम 	:	mangeram
+माड़ूसिंह 	:	madusingh
+मीरसिंह 	:	mirsingh
+मिलखासिंह 	:	Milkha Singh
+मुख्त्यारसिंह 	:	Mukhtyar Singh
+मूलचन्द 	:	moolchand
+मेहरसिंह	:	meharsingh
+ मेहराम 	:	Mehram
+मेवासिंह 	:	mewasingh
+मेवाराम 	:	mevaram
+मेदा 	:	meda
+मोहनलाल 	:	Mohan Lal
+मोखमसिंह	:	mokhamsingh
+ मोलड़ 	:	molad
+मोल्लू 	:	Mollu
+मौजी 	:	maujee
+मूलाराम 	:	moolaram
+मोतीराम 	:	motiram
+मुंशीराम 	:	munshiram
+महाबीर	:	Mahabir
+मुरारीलाल 	:	Murari Lal
+मालिकसिंह	:	maalikasingh
+रतीराम 	:	Ratiram
+रणसिंह 	:	ransingh
+रणधीर	:	Randhir
+ रणजीत	:	Ranjit
+ रणधावा 	:	ranadhaava
+रणवीर 	:	Ranveer
+रणपत	:	Ranpat
+ रतनसिंह 	:	Ratan Singh
+रलदू 	:	raldu
+रघुवीर 	:	Raghuveer
+रघुनाथ 	:	Raghunath
+रतिया	:	Ratia
+ रामफल 	:	Ramphal
+रामपत 	:	Rampat
+रामलखन	:	Ramlakhan
+ रामानन्द 	:	Ramanand
+रामधारी 	:	Ramdhari
+रामजीवन 	:	Ramjivan
+रामजीलाल 	:	Ramjilal
+रामफूलसिंह 	:	Ramphool Singh
+रामसिंह 	:	Ram Singh
+रामपाल	:	Rampal
+ रामसरण 	:	Ramsaran
+रामनिवास 	:	RamNiwas
+रामनारायण 	:	Ramnarayan
+रामकुमार 	:	Ramkumar
+रामकला 	:	Ramkala
+ रामस्वरूप 	:	Ramswaroop
+रामचन्द्र 	:	RamChandra
+रामधन 	:	Ramdhan
+रामकरण 	:	RamKaran
+रामजस 	:	Ramjas
+राममेहर 	:	Rammehar
+रामकिसन 	:	ramkisan
+रामभगत 	:	RamBhagat
+रामभजन 	:	RamBhajan
+रामवतार 	:	Ramvatar
+रामेश्वर 	:	Rameshwar
+राजेन्द्र 	:	Rajendra
+रामप्रसाद 	:	Ramprasad
+राजबीर	:	Rajbir
+ राजपाल 	:	Rajpal
+राजसिंह 	:	Rajsingh
+राजेराम 	:	rajeram
+रायसिंह 	:	Raisingh
+रिजकराम 	:	rijkaram
+रिसालसिंह 	:	Risal Singh
+रिछपालसिंह	:	Richpal Singh
+ रुद्रपाल 	:	Rudrapal
+रूपराम 	:	Roopram
+रूपचन्द 	:	Roopchand
+रोशनलाल 	:	Roshan Lal
+रोहतास	:	Rohtas
+लहरीसिंह 	:	lahrisingh
+लखमी	:	Lakhmi
+ लच्छूसिंह 	:	Lachhu Singh
+लालचन्द 	:	Lalchand
+लाधुराम 	:	ladhuram
+लूल्हड़ 	:	Lulhad
+लिछमन 	:	lichman
+लिच्छू 	:	Lichhu
+लिखमाराम 	:	likhmaram
+लीलूराम 	:	liluram
+लखीराम 	:	Lakhiram
+लेखराम 	:	lekhram
+लेखुराम 	:	lekhuram
+वजीरसिंह 	:	wazirsingh
+विजयपाल 	:	vijaipal
+वीरभान 	:	veerabhaan
+वेदसिंह	:	Vedasingh
+शंकरलाल 	:	Shankarlal
+श्योराम 	:	shyoram
+श्योकरण 	:	shyokaran
+श्योदानसिंह	:	shyodansingh
+ शादीराम	:	Shadiram
+ शिब्बनलाल 	:	shibbanlal
+शिवलाल 	:	shivlal
+शीशराम	:	shisharam
+ शेरसिंह 	:	Sher Singh
+शुभराम	:	shubhram
+ शोभाराम	:	Shobharam
+ श्यामसिंह 	:	Shyam Singh
+श्रीकिशन 	:	Shrikishan
+श्रीया 	:	Shriya
+श्रीचंद 	:	Shrichand
+श्रीभगवान	:	Shri Bhagwan
+सदाराम 	:	Sadaram
+सत्यवान 	:	Satyavan
+सन्तराम 	:	Santram
+समयसिंह 	:	Samay Singh
+सतबीर 	:	Satbir
+सतनारायण 	:	satnarayan
+सतीश 	:	Satish
+सरधाराम	:	sardharam
+ समुन्द्रसिंह 	:	samudra singh
+सरजीत 	:	sarjit
+सहीराम 	:	sahiram
+सरदानन्द 	:	sardanand
+सरदारसिंह 	:	Sardar Singh
+सरदारा 	:	sardara
+सरूपसिंह 	:	Sarup Singh
+सतीरे 	:	satire
+संसारसिंह 	:	Sansar Singh
+साहबसिंह 	:	sahab singh
+सम्पूर्णसिंह 	:	Sampoorn Singh
+साधूराम	:	sadhuram
+ सितारसिंह 	:	Sitar Singh
+सिंघराम	:	Singhram
+समेरसिंह 	:	Samersingh
+सुरजे 	:	Surje
+सुखलाल 	:	Sukhlal
+सुक्खा 	:	sukkha
+सुखबीर 	:	Sukhbir
+सुखदेव 	:	Sukhdev
+सुखपाल 	:	Sukhpal
+सुन्डू 	:	sundu
+सुन्डल 	:	Sundall
+सुक्रमपाल 	:	sukrampal
+सुधनपाल 	:	Sudhanpal
+सुतारसिंह 	:	Sutar Singh
+सुमेरसिंह 	:	Sumer Singh
+सुजानसिंह 	:	Sujansingh
+सुभनमल 	:	Subhanmal
+सुभाचन्द 	:	Subhachand
+सुल्तान 	:	sultan
+सुन्दरलाल 	:	sundarlal
+सुरजन 	:	surjan
+सुखराम 	:	Sukhram
+सूबेसिंह 	:	Subesingh
+सूरतसिंह 	:	Surat Singh
+सूरजमल	:	Surajmal
+सूरजभान 	:	Sooraj Bhan
+सोहनलाल 	:	Sohan Lal
+सोमपाल 	:	sompal
+सौरभसिंह 	:	Saurabh Singh
+सोमवीर	:	somveer
+हरलाल 	:	Harlal
+हरकेश 	:	Harkesh
+हरपाल	:	Harpal
+ हरफूल	:	Harphool
+ हरनारायण 	:	Harnarayan
+हरनाम 	:	harnam
+हरभजन 	:	Harbhajan
+हरमल्ल 	:	Harmalla
+हरपाल 	:	Harpal
+हरज्ञान 	:	hargyaan
+हरवीरसिंह 	:	Harveer Singh
+हरपालसिंह 	:	Harpal Singh
+हरद्वारी 	:	Hardwari
+हजारी 	:	Hazari
+हंसराज 	:	hansraj
+हरिराम 	:	hariram
+हरिदास 	:	haridas
+हरिसिंह 	:	Hari Singh
+हरिओम	:	HariOm
+ हवासिंह 	:	hawasingh
+हरकेराम 	:	Harkeram
+हरिया 	:	Hariya
+हिम्मतसिंह 	:	Himmat Singh
+हीरालाल	:	hiralal
+हीरासिंह 	:	Hira Singh
+हुकमसिंह 	:	Hukam Singh
+हुकमचंद 	:	Hukamchand
+हुंश्यारसिंह 	:	Hunshyar singh
+हेमचंद 	:	Hemchand
+हेतराम	:	Hetram
+हेमराज 	:	Hemraj 
+त्रिलोचन	:	trilochan
+त्रिलोकसिंह 	:	trilok singh
+त्रिलोकचंद	:	trilokchand
+त्रिखासिंह 	:	trikhasingh
+ज्ञानी	:	gyaanee
+अतरकौर 	:	atarkaur
+अभयकौर 	:	abhaykaur
+अनारी 	:	anaaree
+अंगूरी 	:	Angoori
+अंग्रेजो 	:	angrejo
+अंजुबाला 	:	anjubala
+अनूपकौर	:	Anupkaur
+इन्द्रो 	:	indro
+इमरती 	:	Imarti
+इशवन्ती 	:	Ishwanti
+इन्द्रावती	:	indravati
+उदयकौर	:	udaikaur
+ उर्मिला 	:	Urmila
+उमरदेवी	:	Umardevi
+ओमल 	:	omal
+ओमवती 	:	Omvati
+ओमपती 	:	ompati
+ओमकारी	:	Omkari
+कस्तूरी 	:	Kasturi
+करतारी 	:	kartari
+कलावती 	:	Kalavati
+कमला 	:	Kamla
+कमेरो 	:	Camero
+कान्ता 	:	kaanta
+किताबो 	:	kitaabo
+किरणमयी 	:	kiranamayee
+किशनदेई	:	kishandei
+ किशनी 	:	Kishni
+कुशमलता 	:	Kushmalta
+कृष्णा 	:	Krishna
+कैलाशो 	:	Kailasho
+केळांदेवी 	:	kendevi
+कौशल्या	:	Kaushalya
+खजानी 	:	khajaanee
+खजानो 	:	khajaano
+ख्यालो 	:	khyaalo
+खेलो	:	khelo
+गंगादेई 	:	gangadei
+गिन्दोड़ी	:	gindodi
+ गीता 	:	Gita
+गोदावरी 	:	Godavari
+गुलाबो 	:	Gulabo
+गोधा	:	godha
+घोघां 	:	ghoghaan
+घोघड़ी	:	ghoghadee
+चलती 	:	Chalti
+चन्द्रो 	:	Chandro
+चन्द्रावती 	:	Chandravati
+चन्द्रपती 	:	chandrapati
+चम्पा 	:	Champa
+चरवी 	:	charavee
+चमेली 	:	chamelee
+चत्रो 	:	Chatro
+चांदकौर 	:	Chandkaur
+चांदो	:	Chando
+छन्नो 	:	chhanno
+छोटो	:	choto
+जगवन्ती 	:	Jagavanti
+जहरो 	:	jaharo
+जलकौर 	:	jalakaur
+जगबीरी 	:	Jagbiri
+जीवनी 	:	jeevanee
+जगनी 	:	Jagani
+जुगनी 	:	Jugni
+जन्त्री 	:	Jantri
+जयदेई 	:	jaidei
+जयन्ती 	:	jayantee
+जसमन्ती	:	jasmanti
+तसबीरी 	:	tasabeeree
+तारावती	:	taaraavatee
+थानकौर	:	thaanakaur
+दयाकौर 	:	dayaakaur
+दयावती 	:	dayaavatee
+दानकौर 	:	daanakaur
+दिलभरी 	:	dilabharee
+दर्शना	:	darshana
+ दाखो 	:	daakho
+देवकी 	:	devakee
+देब्बी 	:	debbee
+दीदारी	:	deedaaree
+धर्मकौर 	:	Dharmkaur
+धमली 	:	Dhamli
+धमलो 	:	dhamalo
+धपली 	:	dhapalee
+धन्नो 	:	Dhanno
+धनकौर 	:	Dhankaur
+धनपती 	:	Dhanpati
+धनवती 	:	Dhanavati
+धाप्पो 	:	dappo
+धापा 	:	Dhapa
+धोमरी	:	Dhomri
+नगीनादेवी	:	Naginadevi
+नन्दकौर 	:	Nandkaur
+ननकोरी	:	nankori
+नान्हींदेवी	:	nanhindevi
+नान्हटी	:	Nanhati
+ नान्हों 	:	naanhon
+निर्मला 	:	Nirmala
+निहाली 	:	Nihali
+नसीबकौर	:	naseebkaur
+परमेश्वरी 	:	Parameshwari
+पतासो 	:	pataaso
+पतासी 	:	pataasee
+प्यारी 	:	pyaaree
+प्यारो 	:	pyaaro
+पतोरी 	:	Patori
+प्रभा 	:	Prabha
+पिस्तोदेवी 	:	pistodevi
+प्रकाशी 	:	prakaashee
+प्रेमवती 	:	premavatee
+प्रेमो 	:	Premo
+प्रमिला	:	Pramila
+फरदो 	:	pharado
+फूलवती 	:	phoolavatee
+फूलन 	:	phoolan
+फूलकौर 	:	phoolakaur
+फीमोदेवी	:	pheemodevee
+बसन्ती 	:	Basanti
+बरफी 	:	barfi
+बलदेई 	:	Baldei
+बंसोदेवी 	:	bansodevi
+बबली 	:	Babli
+बख्तावरी 	:	Bakhtawari
+बिमला 	:	Bimla
+बीरमती 	:	Birmati
+बीरो 	:	bero
+बूल्ली 	:	booli
+बाला 	:	Bala
+ब्रह्मो 	:	brahmo
+ब्रहमी 	:	brahmi
+ब्रजकौर	:	brajkaur
+ बिधादेवी	:	Bidhadevi
+भरतो 	:	Bharto
+भरपाई 	:	Bharpai
+भतेरी 	:	Bhateri
+भगवानी 	:	Bhagwani
+भानमती 	:	Bhanmati
+भानी	:	Bhani
+मनभरी 	:	  Manbhari
+मनोहरी 	:	Manohari
+महाकौर 	:	Mahakaur
+मल्ही 	:	malhi
+महेन्द्री 	:	Mahendri
+महेन्द्रकौर 	:	mahendrakaur
+माड़ो 	:	Mado
+मामकोरी	:	mamkori
+ मामकौर 	:	mamkaur
+माया 	:	Maya
+मायाकौर 	:	mayakur
+मिश्री 	:	Mishri
+मुन्नी 	:	Munni
+मूर्ती 	:	Murti
+मुखत्यारी 	:	Mukhtyari
+मेहरो 	:	Mehro
+मेवादेवी 	:	mevadevi
+मायावती	:	Mayawati
+रतनी 	:	Ratani
+रमेशवन्ती 	:	rameshwanti
+रामरती 	:	ramrati
+रामप्यारी 	:	Ram Pyari
+रामकौर 	:	Ramkaur
+रामकली 	:	Ramkali
+राजपती 	:	Rajpati
+राजवन्ती 	:	rajwanti
+रामवती 	:	ramvati
+राजकला 	:	Rajkala
+राजेशकौर 	:	Rajeshkaur
+राजबाला 	:	raj Bala
+राजकली 	:	Rajkali
+रामधकेली 	:	ramdhakeli
+राजो 	:	Rajo
+रिछपालो 	:	Richpalo
+रिसालो 	:	Rislo
+रेल्लो	:	raillo
+रेशमा 	:	Reshma
+"रोशनी"	:	Roshni
+ललिता 	:	Lalita
+लाडो 	:	Lado
+लालकौर 	:	Lalkaur
+लिछमी 	:	lichmi
+लीलावती 	:	lilavati
+लीलोदेवी	:	lilodevi
+वेदवती 	:	Vedavati
+वेदकौर 	:	vedkaur
+विजेन्द्री 	:	vijendri
+शकुन्तला 	:	Shakuntala
+शारदा 	:	sharda
+शालिनी 	:	shaalinee
+शान्ति 	:	shaanti
+शीशपाली 	:	sheeshapaalee
+शंकरीदेवी	:	shankareedevee
+सतवन्ती 	:	satavantee
+सन्तरा 	:	santara
+सन्दोखी 	:	sandokhee
+सत्तो 	:	satto
+सत्यवती 	:	satyavatee
+सत्यादेवी 	:	satyaadevee
+सतबीरी 	:	satabeeree
+सज्जनकौर 	:	sajjanakaur
+सरती 	:	saratee
+सरबती 	:	sarabatee
+समाकौर	:	samaakaur
+ सन्तोष 	:	santosh
+सन्तो 	:	santo
+सपना 	:	sapana
+सरला 	:	sarala
+सरस्वती 	:	sarasvatee
+सरजो 	:	sarajo
+सरूपी	:	saroopee
+ साहबकौर 	:	saahabakaur
+सिंगारो 	:	singaaro
+सिकन्दरी 	:	sikandaree
+सुखमा 	:	sukhama
+सुखदेई 	:	sukhadeee
+सुनहरी 	:	sunaharee
+सुमित्रा 	:	sumitra
+सुशीला 	:	susheela
+सुहावती 	:	suhaavatee
+सुनहरी	:	sunaharee
+ सूरजमुखी 	:	soorajamukhee
+सूरजकौर 	:	soorajakaur
+सोनादेवी	:	sonaadevee
+हरदेई 	:	haradeee
+हरकौर 	:	harakaur
+हरकोरी 	:	harakoree
+हरमाया 	:	haramaaya
+हरनन्दी 	:	haranandee
+हरबीर 	:	harabeer
+हरप्यारी 	:	harapyaaree
+हवाकौर	:	havaakaur
+ हुंश्यारी 	:	hunshyaaree
+हूरवती 	:	hooravatee
+हेमलता	:	hemalata
+ज्ञानदेवी 	:	gyaanadevee
+ज्ञानवती 	:	gyaanavatee
+ज्ञानो	:	gyaano
+अखबार	:	newspaper
+बदिया	:	good
+बदिया	:	better
+रात	:	night
+बहार	:	outside
+रुपये	:	money
+थाणे	:	police station
+रपट	:	file
+चोरान	:	thieves
+गोली	:	tablet
+सनेमा	:	cinema
+खतम	:	finish
+बाग	:	garden
+छत्री	:	umbrella
+बाजार	:	market
+दुकान 	:	shops
+सकूल	:	schools
+बालक	:	children
+छूटिया	:	holidays
+दोपहरी	:	afternoon
+संबाल	:	take care
+कागज़	:	documents
+कागज़	:	papers
+जरूरी	:	urgent
+हफ्ते	:	week
+चुनाब	:	elections
+ऐतवार	:	Sunday
+बरफ	:	snow
+काम	:	work
+शिकायत	:	complaint
+मदद	:	helping
+मिठाई	:	sweet
+किलो	:	kg
+तपमान	:	temperature
+धुन्ध	:	foggy
+धुन्ध	:	fog
+तौहार	:	festival
+जुगाड़	:	arrangement
+नाले	:	gutter
+कुश्ती	:	wrestling
+खेल	:	sport
+छोरि	:	girl
+कल	:	tomorrow
+कप्तान	:	captain
+ इनाम	:	prize
+गाड़ी 	:	car
+दफ्तरी 	:	office
+साब 	:	boss
+बीस	:	20
+बीस	:	twenty
+तीस	:	30
+तीस	:	thirty
+चालीस	:	40
+चालीस	:	Forty
+पचास	:	50
+पचास	:	fifty
+किलास	:	class
+साथ	:	60
+साथ	:	sixty
+बाप	:	father
+जल्दी	:	early
+घंटे	:	hour
+साल	:	year
+इक	:	one
+तरकि	:	promotion
+दलाल	:	agent
+तीन	:	3
+तीन	:	three
+किराया	:	rent
+साब	:	officer
+चोर	:	robber
+तेज	:	fast
+बुखार	:	fever
+देवई	:	medicines
+दूकान	:	store
+फोटू	:	Photographs
+फोटू	:	picture
+मेहमान	:	guest
+चाय	:	tea
+मेहंगा	:	expensive
+झोला	:	bag
+शकहारी	:	vegetarian
+पानी	:	water
+दस	:	10
+दस	:	Ten
+बटुवा	:	wallet
+छोटा	:	small
+बीमार	:	sick
+Namaskaram	:	Hello 
+Namaskaram	:	Hi
+रपिये	:	Money
+पीसे	:	Money
+कुणबा 	:	Family
+लत्ता	:	cloth
+कत्याब	:	book
+सोदा	:	deal
+मोल	:	cost
+सला	:	advise
+पं।ख	:	fearhers
+सुपना	:	Dream
+खाब	:	dream
+पंखड़ी	:	wings
+सिट्टी 	:	whistle
+मुकार्र	:	smell
+बांस	:	bad smell
+सोन्ना	:	gold
+बाळ	:	air
+बाळ	:	hair
+धोळा	:	white
+रैजी	:	Agree
+लउ	:	Blood
+बंद	:	Ban
+बोलि	:	bid
+बांडना	:	partake
+टोणा	:	find
+अस्तीफा	:	Resign
+टाळा	:	lock
+भै	:	fear
+लात	:	kick
+जमा	:	add
+जयहर	:	Poison
+काळ	:	Death
+सुभा	:	behaviour
+कटपुतळी	:	puppet
+सतराक	:	Beware
+चोक्कस	:	Beware
+बमार	:	ill
+राह	:	way
+लैनटन	:	lamp
+बल्लफ	:	bulb
+समुंदर्र	:	sea
+सरदर्द	:	Headache
+पार्रटी	:	party
+दैहसत	:	panic
+दांद	:	Tooth
+बकवैद	:	Nonsence
+नासकरणा	:	Fatal
+चैन	:	Relief
+अडांस	:	Difficulty
+माळी	:	Gardener
+हम्त्यान	:	Examination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+छांटणा						Being oversmart 
+कदन						day
+अलग						different
+कररए						do
+कुवाड						door
+नीचे						down
+धरती						earth
+खाना						eat
+खतम						end
+बोहत						enough
+सारे						every
+उधारन						example
+आख						eye
+मुह						face
+कुणबा						family
+पेर						foot
+धोडा						few
+पाया						find
+पहला						first
+खाणा						food
+पाणा						get
+छोरी						girl
+देणा						give
+जाणा						go
+आच्या						good
+माहण						great
+बडना						grow
+था						Had
+करडा						hard
+सुनाया						hear
+मदद						help
+ऊचा						high
+ताता						hot
+घर						house
+मै						I
+जवचार						Idea
+जरूरी						Important
+चीज						Item
+राखीए						Keep
+दयालु						Kind
+जपछाणा						Know
+धरती						Land
+बडा						Large
+आखरी						Last
+बादम						Later
+सीखणा						Learn
+छोडीए						Leave
+बाया						Left
+चालो						Let
+चीठी						Letter
+जींदगी						Life
+रोशनी						Light
+जीसा						Like
+लन						Line
+प्रची						List
+थोडा						Little
+जीणा						Live
+लाम्बा						Long
+देजखए						Look
+खोया						Lose
+बनानाणा						Make
+आदमी						Man
+घणे						Many
+मतलब						Mean
+जमलणा						Meet
+बीचम						Mid
+दधू						Milk
+गलती						Mistake
+ज्यादा						More
+मााँ						Mother
+पाड						Mountain
+चाल						Move
+बोत						Much
+कुहणी						elbow
+कोणी						elbow
+पट्ट						thigh
+झोटा						masculine
+सीळै						soft weather
+एड्डी						Heel
+आबल						More
+आड						for hiding
+आढळ						cover-up 
+आहलणा						Nest 
+आहो						Yes
+आख्यर						Extreme
+तावळा						Fast
+चिकणा						Smooth
+लुगाई						Ladies
+सपोड़ा						Slapping
+घाम						Sunlight
+घणा						Very
+डांगर						Animal
+मूसा						Rat
+गंडा						Sugarcane
+झोला						Basket
+खाट						Bed
+बारणा						Gate
+एल्डगोजा						Flute
+बालाड						Ox
+बलध						Bull
+बलियां						Baniyaan
+बाराफ़ी						ice-cream
+बीजना						Hand fan
+भरोटा						bajra
+बुखारी						fever
+चमसा						Rainy season
+चिपकली						Lizard
+चुचुंदर						Bat
+च्यानहनी						Funeral place
+डाक						Jump
+दम्हुई						Double headed 
+डैंडरी						Childs teeth
+डांगार						Animal stock
+धीड़						Drainage
+धीरा						Headlice
+धिदाय						Eye
+धूमा						Smoke
+डूबो						grass
+गाली						abuse
+गभा						Old
+गबसुआ						Safety pin
+गंडे						Sugarcane
+जिएंडो						Ball
+घैती						Neck
+गूथी						Ring
+गोसा						Dungcake 
+जादा						winters
+जर्सी						 sweater
+जंगल						forest
+जुर्राब						Socks
+कागो						Crow
+खुरमा						Aunt
+कालाशो						Kajal
+करेलकांति						Chameleon
+कसानो						Utensil
+खांचा						 mud
+खासोतनी						Itching
+खाज						Itching
+खाती						Cot 
+खुता						 hope
+किवाडी						Door
+कूट्रु						Dog
+कुंडी						Darwja
+कुंडा						Darwja
+लप्सी						Dish
+लाटे						Clothes
+लीटर						Seet
+लिहाफ़						Quilt
+लंदन						London
+मीहो						Rain
+मुंजिक						miser
+नाहु						Nails
+ओले						Hails
+ऊटी						Naughty
+पादकला						Staircase
+राचो						Things.
+रासा						 rope
+रासी						 rope
+रीत						Snort
+साग						Vegetable
+सकली						Door nob
+साँप						Snake
+सागाई						engagement
+सउद						Quilt
+श्याना						Clever 
+सुथानी						shorts
+टूकानि						Shiny 
+ट्यूबल						Tubewell
+यादी						Friend
+दुरू						Away
+पिचहे						Back
+बुरा						Bad
+प्रतिबंध						Ban
+क्योंकि						Because
+होना						Become
+बिस्तर						Bed
+शुरुकर्ण						Begin
+ताक						Below
+बारा						Big
+पुस्तक						Book
+डोनो						Both
+लरका						Boy
+लाना						Bring
+परांतु						But
+लेकिन						But
+द्वार						By
+बुलाना						Call
+सकना						Can
+कनास्टर						Canister
+कर						Car
+बदलाना						Change
+बच्चे						Children
+शहर						City
+बैंड						Close
+ठंडा						Cold
+आना						Come
+कफ						cough
+देश						country
+कटना						cut
+दैनिक						daily
+शोर						day
+भिन्नी						different
+दरवाजा						door
+ताक						down
+चींटी						end
+पर्यपति						enough
+प्रत्यय						every
+उड़ानारणी						example
+आंख						eye
+चेहरा						face
+परिवार						family
+जोड़ा						foot
+पाना						find
+प्रथम						first
+भोजन						food
+पाना						get
+देना						give
+जना						go
+अच्छा						good
+महान						great
+समुहू						group
+बदना						grow
+कैथिन						hard
+हाय						has
+वही						he
+महोदय						head
+सुनाना						hear
+मदद						help
+याहानी						here
+ऊंचा						high
+गरमी						hot
+घरो						house
+कैसे						how
+विचार						Idea
+यादी						If
+महात्वपूर्ण						Important
+वास्तु						Item
+रखना						Keep
+दयालू						Kind
+जनाना						Know
+भूमि						Land
+विशाल						Large
+एंटिमो						Last
+छोडना						Leave
+बाएने						Left
+चलो						Let
+पात्रा						Letter
+चिट्ठी						Letter
+जीवन						Life
+जिंदगी						Life
+प्रकाश						Light
+पसंद						Like
+रेखा						Line
+सुची						List
+जीना						Live
+लांबा						Long
+नज़र						Look
+रूप						Look
+खोना						Lose
+मुखी						Main
+प्रधान						Main
+केला						Make
+अनेक						Many
+बहुतो						Many
+मिलना						Meet
+मध्य						Mid
+दुध						Milk
+गलत						Mistake
+अधिक						More
+ज्यदा						More
+मां						Mother
+पहाड़ो						Mountain
+चलना						Move
+बहुत						Much
+मेरा						My
+रास्ता						near
+जरूरत						need
+लट्ठबाज						They are fighting.
+आवागा						Will come
+आवागी						Will come
+एड्डी						Heel
+आबल						plenty
+आबल						More
+आड						cover-up
+आढळ						To cover-up 
+आहलणा						The Nest
+आख्यर						The end
+आऴी						Our's
+आला-राशी						Hotchpotch
+आल्ला						Wet
+आळ्कस						Laziness
+आँधळा						to pick up 
+आंखळी						Uneven
+आँट						Obstacle
+अगाऊ						In advance
+अगेत						Early
+अगनाया						The angry person
+अक्खर						word
+अळबाद						Mischief
+अळगोजा						flute
+अळभेडा						Twistted rope
+अळ्झेड़ा						The quarrel
+अमरीका						USA
+अंडास						Obstacle
+अँधोड़						Strong wind
+अंगार						coal
+अंघाई						Mischief
+अणहवी						Unexpected
+अणमीता						Plentiful
+अफलातून						Loadful
+असल						really
+असल का						One’s real
+असनाई						The relatives' village
+अस्टा						Hard
+औळ-सौळ						 hanky-panky 
+ओळा						left side
+औळिया						left-hander 
+औसणना						To mix 
+ओट						To hide
+अराड़े-भुराड़े						Ugly-looking
+अटेहटा						A time consuming
+औड़						The end
+बर्रा						thick rope
+बा						grandfather
+बाबत						related to
+बाधी						strip
+बाद्दी						Obesity
+बाही						arms
+बाण्य						Habit
+बाँस						odour
+बारजा						Balcony
+बारणा						Outside
+बचूरे						Small Children
+बगाणा						To throw
+बग्गी						Bull cart
+बधाण						A long
+बहड़का						Young bull
+बैरण						Enemy
+बळध						Bull
+चाळा						Strange
+चाम						Leather
+चालू						clever 
+चमासा						Rainy season
+चंभोचाळी						A sharp
+चानचक						Suddenly
+चकूटा						Four-cornered
+चमौला						joke
+चानदणा						Dawn
+चानदणी रात						A Moonlit Night
+चणक						The neck pain
+चपाड						Community Hall
+चपड़स						cloth
+चर						The small
+चर्खा						Spinning
+चौखटा						forehead
+चीकला						Baby sparrow
+चीथना						To crush
+छब्बाक						Long jump
+छात						Roof
+छीदा						scattered
+छेछर						overreact
+छीदा						Rare
+छेतणा						To beat 
+छिकमा						In plenty
+छिपकली						Lizard
+छ्यावा						house
+छ्यावा						Shelter
+आया						Came
+गरम						Open
+बलध						Opened
+बछि						Will open
+तमाम						Run
+कांपना						He ate an apple.
+घड़ी						I saw the film last week.
+वा बस ताई काल आई थी।						She came by bus yesterday.
+वो साड़ी रात सो रया था।						He slept the whole night.
+उसे पार्चे अच्छे लगते हैं।						He wrote well in the examination.
+रोटी						He has eaten.
+गरम						He had eaten.
+वो चला गया था						He had gone.
+वो आया था						He had come.
+तंग						He will eat.
+अफ़रिश						He will go.
+वाह आवागा।						He will come.
+अफ़र्म						What is your name?
+अफ़स्या						Your
+तमाम						False show
+उस्ना जाना वस्ता क्यूं बोल्या?						Why did you tell him to go?
+वो थैला क्युन ले कार आया?						Why did he bring the bag?
+उसे पैसे क्यों दिए?						Why did she pay the money?
+तन्ना गडी क्योन चाली?						Why do you drive the car?
+तंग						How did you sleep?
+तमाम						How did you drive the car?
+तमाम						How did you write?
+कांपना						How many apples are there in my hand?
+तंग						How many did you take?
+उसे तन्ना कितने रुपिये दिए?						How much did he pay you?
+तमाम						How was the journey yesterday?
+उदयसिंह						Which way did you come?
+तेरा पसंद का रंग कुन सा हे?						Which is your favourite colour?
+तड़प						In which room did you sleep?
+तू कुनसी काहनी सुनैया?						Which story did you tell?
+सब से मीठा फल कुन सा हे?						Which is the sweetest fruit?
+तड़प						Which is the best newspaper in Hindi?
+ऊदल						Which Indian state has the largest population?
+तमाम						Where are you coming from?
+मानेगर बाबू की कथा ह?						Where is the manager’s cabin?
+कदमसिंह						Where should I go?
+हां एक किताब वह के?						Is it a book?
+शराबी						Yes, it is a book.
+यो जावब वह के?						Is it the answer?
+एक प्रकार का						Yes, it is the answer.
+तमाम						Will you come with me?
+एक प्रकार का						I shall come with you.
+एक प्रकार का						Will you give me your pen?
+कबूलसिंह						Yes, of course.
+तमाम						Do you love me?
+एक प्रकार का						Yes, I love you.
+कंवलसिंह						No, I don't love you.
+तमाम						Can you give me your pen?
+यो डब्बा उठा सका हे के?						Can you lift the box?
+परीक्षा दे शक हे के?						Can you write the exam?
+शराबी						Did you have lunch?
+तमाम						How are you?
+धोरै						slow
+ध्याड़ी						Wages
+डिगर जाना						To move away
+डिठौरा						The pride
+दोहरां						Double
+डूबा-ढेरी						Heavy flood
+डूंघा						Deep
+दूब						grass
+डोवटी						The thick
+दुड़की						The mini race
+दुकड़िया						A room
+दस्त						Dysantry
+एकड़वासी						The lonely place
+फाफोटे						Show-off
+फांची मारना						To interrupt
+फल्लारी						for ride
+फरहड़े						The dry
+फटफटी						motor-cycle
+फुसफुसी						The lose
+गादड़						Jackal
+गागड़						The long
+गडराणा						to answer
+गामौली						villager
+गार						mud
+गाळ						street
+गाभरू						A young man
+गभसूवा						Safety pin
+गड़ंग						boasts
+गैल						With
+गळामा						Rope
+गलहूरा						Chee
+गंधीला						Dirty
+गंठा						The onion
+गरेड़ा						obstacle
+गवार पट्ठा						Aloe Vera
+गवहेरा						A wild
+गींडो						Ball
+गीत						Local songs
+घेंसळा						The rough
+घणा						Too much
+घनखरे						Many of them
+घरवासा						Family life
+घट्टा						Hole
+घिचमिच						congested
+घिलौठ						A sweet
+घिन						Hatred
+घिणका						Dense
+घूघी						A small bird
+बिलकुल						Ofcourse
+सवाल						questions 
+अंतिम						the last
+खेत						farm
+स्वाद						tasty
+कलम						pen
+नरम सा मौसम						soft weather
+मौसम						weather
+नरम						soft
+नरम						mild
+गर्मी						heat
+बुरा सपना						nightmare
+जिगर						liver
+बाल						hair
+कमावण ताहीं						To earn
+के हो रहया सै						What is happening?
+सब काम मैं लाग रहे सैं						everyone is busy
+यो राह कुण-से गाम में जावै सै ?						Which village does this road lead to?
+ओड						so big
+कदे						sometimes
+कदे-कदे						sometimes
+टुकेक						a little
+ज्याहें तैं						that's why
+जिब						then
+जिब्बै						then
+री						ari
+चक्कर						problem
+सटारट						start 
+टैर						tire 
+पैटक						packet 
+पालश						polish 
+चानस						chance 
+रिपट						rivet 
+गेर						gear 
+स्टोप						stove 
+राड						rod 
+ड्राम						drum 
+रपिया						rupee 
+खिन्नु						ball 
+मटठो						kiss 
+भीत						wall 
+ओटडा						small wall 
+जंगला						window 
+मीह						rain 
+छोह						anger 
+छांत						roof 
+टीकड़े						bread 
+डेगचून						wrought iron 
+खाट						chaarpai
+सोड						quilt 
+गदेला						quilt 
+गूदडा						bed 
+बिटोडा						dung heap 
+डांगर						cattle 
+खसम						husband 
+जमात						class 
+आडू						fool 
+एंडी						good 
+चोखा						good 
+गावड़ी						cow 
+डाँख						bhains 
+आला						niche 
+बाजा						music system 
+दीदे						eyes 
+नास						nose 
+थोबड़ा						face 
+आल						naughtiness
+अलबाद						naughtiness
+बुलध						bull 
+याड़े						here 
+उडे						there 
+भरोटा						cattle fodder 
+गोस्सा						dried dung 
+जेवड़ी						rope 
+सूं						oath 
+कड़						human back 
+कसूता						extreme 
+गार						mud 
+टूम						ornaments 
+जमा ऐ						totally 
+सुआ						injection 
+हल्लन						earthquake 
+फेटना						to meet
+दागदर						doctor 
+मौड						saint 
+टाबर						child 
+गाबरू						young 
+बुढला						old man 
+गंडासा						butifully lady
+भुड़ी सुगली						ugly
+गाम						village
+तू कित जावै सै?						Where are you going ?
+तू के करै सै?						What are you doing?
+के नाम सै तेरा?						What is your name?
+के खाया तन्नै?						What did you eat?
+के चाल रह्य सै?						What's going on?
+मन्नै कोनी / कोना बेरा।						I don't know.
+के चक्कर सै?						What is your problem?
+कित का सै तू?						Where are you from?
+घरां कोन कोन सै						Who's at home?
+तेरा घर कित सि सै?						Where is your home?
+रोटी खा ली के?						Did you have your roti?
+के गयान सै 						How are you?
+ के ढ़ग सै?						How are you?
+मन्नै तेरे तै कही थी।						I told you
+या म्हारी छौरी सै।						She's my daughter
+यो म्हारा छौरा सै।						He's my son
+तू कढ़ सी आवैगा?						When you will be coming?
+तेरी बाट देखुं था।						I was waiting for you.
+तेरा ब्याह हो रह्य सै के?						Are you married?
+कुन सि जगाह कन्नि चाल्या तू?						Which city you are going to?
+उरेन नै आ।						Come here
+हम्बै						Yes
+‍कड़ै?						where
+कित?						where
+चल चालां गे।						lets move
+चुप रह।						silent
+घणा मत ना बोल्लै।						don't speak too much
+गबरु छोरा सै।						He is a young man
+किंघानै?						Which direction is it?
+मिह बरसै सै।						It is raining
+ओड						so big
+इंघे						here
+इत						here
+आड़ै						here
+हाड़ै						here
+इंघानै						This way
+उरे-नै						This way
+ईब						just
+ईबै						just
+उंघे						there
+उत						there
+परै						there
+ऊड़ै						there
+हूड़ै						there
+उरला                   						the one here
+ओढ़ाणै						now
+ओढ़ाणै						This time
+कोढ़ाणै						When
+कोढ़ाणै						At what time
+कित						Where
+कड़ै						Where
+किंघानै 						which way
+किंघानै 						where
+किंघां-कै						from which side
+केभरा      						Perhaps
+कद        						When
+कदे						sometimes
+कद्दे-तैं 						ever since
+कद्दे-तैं 						as always
+कूण						Who
+कित्तैं						From where
+कड़े-तैं 						From where
+कींहका						Whose
+कींहकी  						Whose
+किस तरियाँ 						How
+किसा						How
+किसी						How
+किम्मै                 						Anything
+कित्तै-हो						anywhere
+कित्तै-बी						anywhere
+कोड						how big
+कोडेक						how big
+कोडोड़						How long
+क्यूकर-ए बी						anyhow
+तन्नै						You
+मन्नै						Me
+म्हारा						Our
+म्हारो						Our
+थारा						your
+थारो						your
+ज्याहें तैं 						that's why
+जिब्बै  						Then
+जित						Where
+जड़ै						Where
+जित-बी						wherever
+जड़ै-बी						wherever
+ऊँ						By the way
+ऊँ-तै						By the way
+जणूं						like
+जणूं-तै						like
+न्यूंन						that side
+न्यूंनै						that side
+न्यूं-ऐं						just like
+लग						until
+परला						over there
+परे-नै						there
+रै						Oho
+आंह-रै						Oho
+सै						Is
+करण देना						to let
+भरण खातिर						to fill
+चालण द्यो						carry on with
+रहण दे  						let it be
+जाण दे						let go
+कमावण ताहीं						To earn
+बोझ ढ़ोवणा						carry a load
+ऊकना						miss
+ऊक जाना						miss out
+दाबना 						Press
+घालणा						insert
+गेरणा 						Throw
+भीजणा						get wet
+खोसणा						To snatch away
+मंड्या रहणा						stick to
+खिंढ़ाणा						to scatter
+सापड़णा 						End
+घुरड़ना						to roll over
+लिकड़णा 						to get out
+नावड़ना 						get absorbed
+सिंगवाना						crimp
+बळना 						Burn
+आग बळै सै						fire is burning
+खुरकाना						to threaten
+बूसना 						wither
+फेटना 						To meet
+सांभरणा 						crimp
+कड़े त आँण मरया इतनी रात नै						Where did you come from late night
+ओ कड़ै चाल्या राम त बैठ ज्या						 where did you go just sit down
+कित चाल्या इब						 now where are you going
+कठे चाल्यो						where are you going
+कितोड़ जा रया था						Where did you go
+यड़े त हाल ना जाइए 						Don’t move from here 
+आड़े आ देख के दिखाऊँ						come here I’ll show you something
+अठे आ						 come here
+ओड़े के पड्या सै ओ						What is it there
+ओठै के करण गया था नाटण के बाद भी						What did you do there despite refusal
+बेबे						sister
+भांण 						sister
+बीरा						brother
+बीर 						brother
+बाबू						father
+बापू 						father
+माँ 						mother
+धणी						husband
+भरतार						husband
+खसम						husband
+घरआळा 						husband
+लुगाई						wife
+बिरबानी						wife
+घरआली						wife
+घरबैरण 						wife
+ताऊ 						uncle
+काका						uncle
+चाचा 						uncle
+ताई						aunty
+काकी 						aunty
+दादा 						grandfather
+दादी 						grandmother
+पड़दादा 						great grandfather
+पड़दादी						great grandmother
+मौसी 						aunty
+ननद 						sister law
+लटूर						hair
+सर						head
+थोबड़ा 						mouth
+नास्टी 						nose
+घेटी						neck
+घिटी						neck
+दीदे 						eyes
+दांद						teeth
+ठुड़ी 						chin
+बासळा 						backdisk
+आथ 						hand
+आँगळी						finger
+कड़						back
+कोणी						albow
+कुहणी 						albow
+गोड़ा 						nee
+टाकणा 						ankle
+पाँ 						leg
+सातल						thigh
+जिगड़ा 						liver
+आँतड़ी						intestine
+डिग्गी 						sixpack abs
+गौ						cow
+गऊ						cow
+बोडर 						cow
+बलध 						ox
+बछि						calf of cow
+बाछड़ा 						calf of cow
+खोला						Buffalo
+खोलड़ा						Buffalo
+मैंस 						Buffalo
+झोटा 						masculine
+काटड़ा						calf
+काटडू 						calf
+टेम						time
+बख़्त						time
+घड़ी 						time
+सूबेरे						Morning
+तड़के तड़क						morning
+दफैरी 						noon
+साँझ						evening
+रैत 						night
+घर						home
+काम हो-ग्या						Work is done
+रात हो-गी						It was night time
+बाळक सो-गे						the kids fell asleep
+वो दूसरे गाम मैं चल्या गया						he went to another village
+काम फैल्या पड़्या सै						work is spread
+वो कितणा पढ़्या सै						how much has he read
+यो तन्नैं के करया						What have you done
+बासण मैं पाणी भरया सै						pot is full of water
+खेत मैं पाणी खड़्या हो-ग्या						water in the field
+घोड़ा भाज्या जा सै 						horse running
+लत्ते भीज्ये पड़े सैं						clothes are soaked
+कुण-सा						Which one
+कुण-सी						Which one
+कौथा						Which one
+कौथी 						Which one
+के						What
+तेरा बयाह हो रिया से के?						Are you married?
+राम ने रोटी खाई से।						 Ram ate the bread.
+तेरा						Your
+चिघनान						False show
+अनारसिंह						Anarsingh
+अतरसिंह						Atrsingh
+अमनसिंह						"Aman Singh
+"
+अन्तराम						Antaraam
+अजबसिंह						Ajab Singh
+अभयसिंह						Abhay Singh
+अमरसिंह						Amar Singh
+अजमेरसिंह						Ajmer Singh
+अमीचंद						Amichand
+अमीरसिंह						Amir Singh
+आशाराम						Asharam
+आजादसिंह						Azad Singh
+आसानन्द						Aasaanand
+आनन्दसिंह						Anand Singh
+आयाराम						Ayaram
+ओमबीर						Omabeer
+ईश्वरसिंह						Ishwar Singh
+इन्द्राज						Indraj
+उदयसिंह						Uday Singh
+उमेदसिंह						"Umed Singh
+"
+उदमीराम						Udmiram
+उदयपाल						udaipal
+उदयवीरसिंह						Udayveer Singh
+उमरावसिंह						umrao Singh
+ऊदल						oodal
+ऋषिपाल						Rishi Pal
+कलीराम						Kaliram
+कश्मीरी						kashmeeree
+कदमसिंह						Kadam Singh
+कमले						Kamale
+करतारसिंह						Kartar Singh
+करमबीर						karambir
+करोड़ी						crores
+कन्हैया						Kanhaiya
+कंवरसिंह						Kanwar Singh
+कपूरसिंह						kapur singh
+कबूलसिंह						Kabul Singh
+कप्तानसिंह						Kaptan Singh
+करनलसिंह						karnal singh
+कंवलसिंह						Kanwal Singh
+कांशीराम						kanshiram
+कामराज						Kamaraj
+कालूराम						kaluram
+किशोरीलाल						Kishori Lal
+किदारसिंह						kidar singh
+किरणपाल						Kiran Pal
+किसनसिंह						kisan singh
+किशनलाल						Kishan Lal
+कीरता						keerata
+किइकरसिंह						kikar singh
+कुन्दनलाल						kundanlal
+कूड़ेमल						koodemal
+केलाराम						kelaram
+केहरीसिंह						Kehri Singh
+केवलसिंह						Kewal Singh
+केशोराम						keshoram
+खेमचंद						khemchand
+खीमा						Kheema
+खजानसिंह						Khajan Singh
+ख्यालीराम						khyaliram
+खुशीराम						khushiram
+खुशिया						khushiya
+खैरातीलाल						Khairatilal
+खूबचन्द						khubchand
+घड़ूका						pitcher
+घासीराम						ghasiram
+घनश्याम						ghanshyam
+घीसूमल						Ghisumal
+घोटूराम						ghoturam
+घुड़श्याम						ghudashyaam
+घरेला						household
+गणेशी						Ganeshi
+गणपतराय						Ganpatrai
+गंगाराम						Gangaram
+गजेन्द्रसिंह						Gajendra singh
+गयाराम						gayaram
+गजेसिंह						Gajesingh
+गिरधारी						Girdhari
+गूगन						googan
+गुणिया						virtuoso
+गुलराज						Gulraj
+गुलाबसिंह						Gulab Singh
+गुलजारी						Gulzari
+गूदड़सिंह						Gudar Singh
+गेंदाराम						gendaaraam
+गोधा						godha
+गोपीराम						gopiram
+गोरधन						Gordhan
+गोकलसिंह						gokal singh
+गोधूरामम गुट्टी						Godhuramam Gutti
+गोधूरामम						godhuramam
+गुट्टी						gutti
+चरणसिंह						Charan Singh
+चन्दगीराम						chandgiram
+चन्द्रभान						Chandra Bhan
+चतरसिंह						Chatar Singh
+चन्दूलाल						chandulal
+चन्दरसिंह						Chandra Singh
+चन्दन						Chandan
+चन्दरूप						chandroop
+चतरभुज						ctarbhuj
+चांदराम						Chandram
+चान्डू						Chandu
+चांदबीर						Chandbir
+चुन्नीलाल						chunilal
+चुन्नीराम						chunniram
+चिरंजीलाल						chiranjilal
+चेतराम						Chetram
+चैनसिंह						Chain Singh
+छज्जूमल						chhajumal
+छत्तरसिंह						Chattar Singh
+छाजूराम						Chhajuram
+छोटूराम						chhoturam
+छोटेलाल						chhotelal
+छेल्लू						chellu
+छेत्रपाल						chhetrapal
+छेदिलाल						Chhedilal
+जगराम						JagRam
+जगदीश						Jagdish
+जगरूप						Jagroop
+जगतराम						Jagatram
+जवाहरा						Jawahar
+जसमेर						jasmer
+जगमेन्द्र						jagmendra
+जगदेवसिंह						Jagdev Singh
+जगमालसिंह						Jagmal Singh
+जसवन्तसिंह						Jaswant Singh
+जलजीत						jaljit
+जगजीत						Jagjit
+जसराम						jasram
+जयकुमार						Jayakumar
+जयनारायण						jayanarayan
+जलसिंह						jalasingh
+जलकरण						jalakaran
+जयकरण						Jaikaran
+जयवीर						Jaiveer
+जयदेव						Jaydev
+जयपाल						Jaipal
+जयसिंह						jaisingh
+जमनादास						Jamnadas
+जागेराम						Jageram
+जिलेसिंह						jilesingh
+जीतराम						jeetram
+जसबीर						Jasbir
+जीवनलाल						Jeevan Lal
+जुगलाल						Juglal
+जुगलकिशोर						Jugalkishore
+जुगता						jugta
+जुगती						Jugti
+जोगिन्द्र						joginder
+जोधाराम						jodharam
+जोरावरसिंह						joravarsingh
+जैना						Jaina
+झब्बू						Jhabbu
+झगड़ूमल						jhagadoomal
+झन्डूमल						Jhandumal
+झूलाराम						Jhularam
+झाडुसिंह						Jhadusingh
+टेकचन्द						Tekchand
+टेकराम						Tekram
+टहलराम						thalram
+टीकाराम						tikaram
+ठाकरिया						Thakaria
+डालचन्द						Dalchand
+डूंगरसिंह						Dungar Singh
+डडु						dadu
+डीघराम						dighram
+ढ़ालाराम						dhaalaram
+ढ़ोलू						Dholu
+तसबीरसिंह						tasbirsingh
+तखतराम						takhataraam
+ताजसिंह						taajsingh
+ताराचंद						Tarachand
+ताजमल						taajamal
+ताल्लेराम						taalleraam
+तारीफसिंह						taareephasingh
+तिरखा						tirakha
+तीरथराम						Tiratharam
+तेजबीर						Tejbir
+तोखराम						tokhram
+तोताराम						totaram
+थानसिंह						Thansingh
+थावरिया						Thawaria
+दलबीर						Dalbir
+दयाकिशन						Dayakishan 
+दलेलसिंह						Dalelsingh
+दरियावसिंह						Dariyavsingh 
+दलजीत						Daljit 
+दाखेराम						Dakheram 
+दीपचंद						Deepchand
+दिलबाग						 Dilbagh
+दिलावर						 Dilawar
+दीवानसिंह						 Diwansingh 
+दुलीचंद						Dulichand
+देवकराम						 Devkaram 
+देवीलाल						DeviLal 
+देसराज						Desraj 
+दौल्लीराम						Daulliram
+दौलतराम						 Daulatram
+धरमसिंह						Dharam Singh
+धरमपाल						dharampal
+धरमवीर						dharamveer
+धजाराम						dhajaram
+धीरपाल						Dhirpal
+धूपसिंह						Dhoop Singh
+धूपल						Dhupal
+धनपाल						Dhanapal
+धन्सीराम						dhansiram
+धज्जाराम						dhajjaram
+नन्दू						Nandu
+ननकूराम						nankuram
+नन्दराम						Nand Ram
+नवलसिंह						Naval Singh
+नफेसिंह						nafesingh
+नरसिंह						Narasingh
+नसीबसिंह						naseeb singh
+नत्थूराम						nathuram
+नन्नूराम						nannuram
+न्यादर						Nyadar
+नान्हें						naanhen
+नान्हड़						Nanhad
+नानकचंद						Nanakchand
+नाहड़सिंह						naharsingh
+निहालसिंह						Nihal Singh
+निहालू						Nihalu
+निगाहीया						nigaaheeya
+नेतराम						netram
+नेकीराम						nekiram
+नैनसुख						Nainsukh
+नौरंग						Naurang
+पदमसिंह						padam singh
+पन्नालाल						pannalal
+पीरदान						Peerdan
+प्रभातीलाल						Prabhatilal
+परसराम						parasram
+प्रेमसिंह						Prem singh
+प्रताप						Pratap
+पतराम						Patram
+पवनसिंह						Pawan Singh
+प्रिथीसिंह						Prithi Singh
+प्यारेलाल						Pyarelal
+परमा						parma
+पल्टू						Paltu
+प्रभु						Lord
+पूरणसिंह						Pooran Singh
+पूरणमल						Pooranmal
+प्रहलादसिंह						Prahlad Singh
+फतेहसिंह						Fateh Singh
+फत्ते						Fatte
+फूलसिंह						Phool Singh
+फूलकवार						phoolakavaar
+फौजु						Fauju
+बनवारीलाल						Banwari Lal
+बदले						badale
+बदलू						Badlu
+बदामसिंह						Badam Singh
+बनारसी						Banarasi
+बलवन्त						balavant
+बदनसिंह						Badansingh
+बलबीर						Balbir
+बनीसिंह						Banisingh
+बल्लेराम						balleram
+बल्लू						Ballu
+बखतावर						Bakhtawar
+बलजीत						Baljeet
+बलदेव						Baldev
+बलवान						balavaan
+बलराज						Balraj
+ब्रहमा						Brahma
+बन्शीलाल						banshilal
+बक्षीराम						bakshiram
+बसन्त						basant
+बस्तीराम						Bastiram
+बारूराम						baruram
+बाघेराम						Bagheram
+बालकिशन						Balkishan
+बिसंबर						December
+बिजेसिंह						bijesingh
+बिजेन्द्र						bijendra
+बीरबल						Birbal
+बुद्धूराम						buddhuram
+बुधराम						Budhram
+बेगराज						Begraj
+बेड़ासिंह						bedasingh
+भरतू						Bhartu
+भरते						bharate
+भरतसिंह						Bharat Singh
+भगवानसिंह						Bhagwan Singh
+भगवाना						bhagavaana
+भलेराम						Bhaleram
+भगतराम						Bhagatram
+भंवरसिंह						Bhanwar Singh
+भालसिंह						bhalsingh
+भानेराम						Bhaneram
+भागमल						Bhagmal
+भीमसिंह						bhim singh
+भीखू						bheekhoo
+भीकमसिंह						Bhikam Singh
+भून्डे						bhunde
+भूपसिंह						Bhupsingh
+भूरा						bhoora
+भूरेलाल						Bhure Lal
+भोलाराम						bholaram
+भैयाराम						Bhaiyaram
+भान						bhaan
+मनफूल						Manphool
+मनसाराम						mansaram
+मनबीर						manbir
+मलूका						Maluka
+मनोहरलाल						Manohar Lal
+महासिंह						Maha Singh
+महीपाल						Mahipal
+महताबसिंह						Mahtab Singh
+मनकेराम						mankeram
+मनीराम						maniram
+मंगतराम						mangatram
+मंगलू						manglu
+माईधन						Maidhan
+मातादीन						maataadeen
+माधोसिंह						Madho Singh
+मामनसिंह						mamansingh
+मामचंद						mamchand
+मामसिंह						Mamsingh
+मांगेराम						mangeram
+माड़ूसिंह						madusingh
+मीरसिंह						mirsingh
+मिलखासिंह						Milkha Singh
+मुख्त्यारसिंह						Mukhtyar Singh
+मूलचन्द						moolchand
+मेहरसिंह						meharsingh
+मेहराम						Mehram
+मेवासिंह						mewasingh
+मेवाराम						mevaram
+मेदा						meda
+मोहनलाल						Mohan Lal
+मोखमसिंह						mokhamsingh
+मोलड़						molad
+मोल्लू						Mollu
+मौजी						maujee
+मूलाराम						moolaram
+मोतीराम						motiram
+मुंशीराम						munshiram
+महाबीर						Mahabir
+मुरारीलाल						Murari Lal
+मालिकसिंह						maalikasingh
+रतीराम						Ratiram
+रणसिंह						ransingh
+रणधीर						Randhir
+रणजीत						Ranjit
+रणधावा						ranadhaava
+रणवीर						Ranveer
+रणपत						Ranpat
+रतनसिंह						Ratan Singh
+रलदू						raldu
+रघुवीर						Raghuveer
+रघुनाथ						Raghunath
+रतिया						Ratia
+रामफल						Ramphal
+रामपत						Rampat
+रामलखन						Ramlakhan
+रामानन्द						Ramanand
+रामधारी						Ramdhari
+रामजीवन						Ramjivan
+रामजीलाल						Ramjilal
+रामफूलसिंह						Ramphool Singh
+रामसिंह						Ram Singh
+रामपाल						Rampal
+रामसरण						Ramsaran
+रामनिवास						RamNiwas
+रामनारायण						Ramnarayan
+रामकुमार						Ramkumar
+रामकला						Ramkala
+रामस्वरूप						Ramswaroop
+रामचन्द्र						RamChandra
+रामधन						Ramdhan
+रामकरण						RamKaran
+रामजस						Ramjas
+राममेहर						Rammehar
+रामकिसन						ramkisan
+रामभगत						RamBhagat
+रामभजन						RamBhajan
+रामवतार						Ramvatar
+रामेश्वर						Rameshwar
+राजेन्द्र						Rajendra
+रामप्रसाद						Ramprasad
+राजबीर						Rajbir
+राजपाल						Rajpal
+राजसिंह						Rajsingh
+राजेराम						rajeram
+रायसिंह						Raisingh
+रिजकराम						rijkaram
+रिसालसिंह						Risal Singh
+रिछपालसिंह						Richpal Singh
+रुद्रपाल						Rudrapal
+रूपराम						Roopram
+रूपचन्द						Roopchand
+रोशनलाल						Roshan Lal
+रोहतास						Rohtas
+लहरीसिंह						lahrisingh
+लखमी						Lakhmi
+लच्छूसिंह						Lachhu Singh
+लालचन्द						Lalchand
+लाधुराम						ladhuram
+लूल्हड़						Lulhad
+लिछमन						lichman
+लिच्छू						Lichhu
+लिखमाराम						likhmaram
+लीलूराम						liluram
+लखीराम						Lakhiram
+लेखराम						lekhram
+लेखुराम						lekhuram
+वजीरसिंह						wazirsingh
+विजयपाल						vijaipal
+वीरभान						veerabhaan
+वेदसिंह						Vedasingh
+शंकरलाल						Shankarlal
+श्योराम						shyoram
+श्योकरण						shyokaran
+श्योदानसिंह						shyodansingh
+शादीराम						Shadiram
+शिब्बनलाल						shibbanlal
+शिवलाल						shivlal
+शीशराम						shisharam
+शेरसिंह						Sher Singh
+शुभराम						shubhram
+शोभाराम						Shobharam
+श्यामसिंह						Shyam Singh
+श्रीकिशन						Shrikishan
+श्रीया						Shriya
+श्रीचंद						Shrichand
+श्रीभगवान						Shri Bhagwan
+सदाराम						Sadaram
+सत्यवान						Satyavan
+सन्तराम						Santram
+समयसिंह						Samay Singh
+सतबीर						Satbir
+सतनारायण						satnarayan
+सतीश						Satish
+सरधाराम						sardharam
+समुन्द्रसिंह						samudra singh
+सरजीत						sarjit
+सहीराम						sahiram
+सरदानन्द						sardanand
+सरदारसिंह						Sardar Singh
+सरदारा						sardara
+सरूपसिंह						Sarup Singh
+सतीरे						satire
+संसारसिंह						Sansar Singh
+साहबसिंह						sahab singh
+सम्पूर्णसिंह						Sampoorn Singh
+साधूराम						sadhuram
+सितारसिंह						Sitar Singh
+सिंघराम						Singhram
+समेरसिंह						Samersingh
+सुरजे						Surje
+सुखलाल						Sukhlal
+सुक्खा						sukkha
+सुखबीर						Sukhbir
+सुखदेव						Sukhdev
+सुखपाल						Sukhpal
+सुन्डू						sundu
+सुन्डल						Sundall
+सुक्रमपाल						sukrampal
+सुधनपाल						Sudhanpal
+सुतारसिंह						Sutar Singh
+सुमेरसिंह						Sumer Singh
+सुजानसिंह						Sujansingh
+सुभनमल						Subhanmal
+सुभाचन्द						Subhachand
+सुल्तान						sultan
+सुन्दरलाल						sundarlal
+सुरजन						surjan
+सुखराम						Sukhram
+सूबेसिंह						Subesingh
+सूरतसिंह						Surat Singh
+सूरजमल						Surajmal
+सूरजभान						Sooraj Bhan
+सोहनलाल						Sohan Lal
+सोमपाल						sompal
+सौरभसिंह						Saurabh Singh
+सोमवीर						somveer
+हरलाल						Harlal
+हरकेश						Harkesh
+हरपाल						Harpal
+हरफूल						Harphool
+हरनारायण						Harnarayan
+हरनाम						harnam
+हरभजन						Harbhajan
+हरमल्ल						Harmalla
+हरपाल						Harpal
+हरज्ञान						hargyaan
+हरवीरसिंह						Harveer Singh
+हरपालसिंह						Harpal Singh
+हरद्वारी						Hardwari
+हजारी						Hazari
+हंसराज						hansraj
+हरिराम						hariram
+हरिदास						haridas
+हरिसिंह						Hari Singh
+हरिओम						HariOm
+हवासिंह						hawasingh
+हरकेराम						Harkeram
+हरिया						Hariya
+हिम्मतसिंह						Himmat Singh
+हीरालाल						hiralal
+हीरासिंह						Hira Singh
+हुकमसिंह						Hukam Singh
+हुकमचंद						Hukamchand
+हुंश्यारसिंह						Hunshyar singh
+हेमचंद						Hemchand
+हेतराम						Hetram
+हेमराज						Hemraj 
+त्रिलोचन						trilochan
+त्रिलोकसिंह						trilok singh
+त्रिलोकचंद						trilokchand
+त्रिखासिंह						trikhasingh
+ज्ञानी						gyaanee
+अतरकौर						atarkaur
+अभयकौर						abhaykaur
+अनारी						anaaree
+अंगूरी						Angoori
+अंग्रेजो						angrejo
+अंजुबाला						anjubala
+अनूपकौर						Anupkaur
+इन्द्रो						indro
+इमरती						Imarti
+इशवन्ती						Ishwanti
+इन्द्रावती						indravati
+उदयकौर						udaikaur
+उर्मिला						Urmila
+उमरदेवी						Umardevi
+ओमल						omal
+ओमवती						Omvati
+ओमपती						ompati
+ओमकारी						Omkari
+कस्तूरी						Kasturi
+करतारी						kartari
+कलावती						Kalavati
+कमला						Kamla
+कमेरो						Camero
+कान्ता						kaanta
+किताबो						kitaabo
+किरणमयी						kiranamayee
+किशनदेई						kishandei
+किशनी						Kishni
+कुशमलता						Kushmalta
+कृष्णा						Krishna
+कैलाशो						Kailasho
+केळांदेवी						kendevi
+कौशल्या						Kaushalya
+खजानी						khajaanee
+खजानो						khajaano
+ख्यालो						khyaalo
+खेलो						khelo
+गंगादेई						gangadei
+गिन्दोड़ी						gindodi
+गीता						Gita
+गोदावरी						Godavari
+गुलाबो						Gulabo
+गोधा						godha
+घोघां						ghoghaan
+घोघड़ी						ghoghadee
+चलती						Chalti
+चन्द्रो						Chandro
+चन्द्रावती						Chandravati
+चन्द्रपती						chandrapati
+चम्पा						Champa
+चरवी						charavee
+चमेली						chamelee
+चत्रो						Chatro
+चांदकौर						Chandkaur
+चांदो						Chando
+छन्नो						chhanno
+छोटो						choto
+जगवन्ती						Jagavanti
+जहरो						jaharo
+जलकौर						jalakaur
+जगबीरी						Jagbiri
+जीवनी						jeevanee
+जगनी						Jagani
+जुगनी						Jugni
+जन्त्री						Jantri
+जयदेई						jaidei
+जयन्ती						jayantee
+जसमन्ती						jasmanti
+तसबीरी						tasabeeree
+तारावती						taaraavatee
+थानकौर						thaanakaur
+दयाकौर						dayaakaur
+दयावती						dayaavatee
+दानकौर						daanakaur
+दिलभरी						dilabharee
+दर्शना						darshana
+दाखो						daakho
+देवकी						devakee
+देब्बी						debbee
+दीदारी						deedaaree
+धर्मकौर						Dharmkaur
+धमली						Dhamli
+धमलो						dhamalo
+धपली						dhapalee
+धन्नो						Dhanno
+धनकौर						Dhankaur
+धनपती						Dhanpati
+धनवती						Dhanavati
+धाप्पो						dappo
+धापा						Dhapa
+धोमरी						Dhomri
+नगीनादेवी						Naginadevi
+नन्दकौर						Nandkaur
+ननकोरी						nankori
+नान्हींदेवी						nanhindevi
+नान्हटी						Nanhati
+नान्हों						naanhon
+निर्मला						Nirmala
+निहाली						Nihali
+नसीबकौर						naseebkaur
+परमेश्वरी						Parameshwari
+पतासो						pataaso
+पतासी						pataasee
+प्यारी						pyaaree
+प्यारो						pyaaro
+पतोरी						Patori
+प्रभा						Prabha
+पिस्तोदेवी						pistodevi
+प्रकाशी						prakaashee
+प्रेमवती						premavatee
+प्रेमो						Premo
+प्रमिला						Pramila
+फरदो						pharado
+फूलवती						phoolavatee
+फूलन						phoolan
+फूलकौर						phoolakaur
+फीमोदेवी						pheemodevee
+बसन्ती						Basanti
+बरफी						barfi
+बलदेई						Baldei
+बंसोदेवी						bansodevi
+बबली						Babli
+बख्तावरी						Bakhtawari
+बिमला						Bimla
+बीरमती						Birmati
+बीरो						bero
+बूल्ली						booli
+बाला						Bala
+ब्रह्मो						brahmo
+ब्रहमी						brahmi
+ब्रजकौर						brajkaur
+बिधादेवी						Bidhadevi
+भरतो						Bharto
+भरपाई						Bharpai
+भतेरी						Bhateri
+भगवानी						Bhagwani
+भानमती						Bhanmati
+भानी						Bhani
+मनभरी						  Manbhari
+मनोहरी						Manohari
+महाकौर						Mahakaur
+मल्ही						malhi
+महेन्द्री						Mahendri
+महेन्द्रकौर						mahendrakaur
+माड़ो						Mado
+मामकोरी						mamkori
+मामकौर						mamkaur
+माया						Maya
+मायाकौर						mayakur
+मिश्री						Mishri
+मुन्नी						Munni
+मूर्ती						Murti
+मुखत्यारी						Mukhtyari
+मेहरो						Mehro
+मेवादेवी						mevadevi
+मायावती						Mayawati
+रतनी						Ratani
+रमेशवन्ती						rameshwanti
+रामरती						ramrati
+रामप्यारी						Ram Pyari
+रामकौर						Ramkaur
+रामकली						Ramkali
+राजपती						Rajpati
+राजवन्ती						rajwanti
+रामवती						ramvati
+राजकला						Rajkala
+राजेशकौर						Rajeshkaur
+राजबाला						raj Bala
+राजकली						Rajkali
+रामधकेली						ramdhakeli
+राजो						Rajo
+रिछपालो						Richpalo
+रिसालो						Rislo
+रेल्लो						raillo
+रेशमा						Reshma
+रोशनी						Roshni
+ललिता						Lalita
+लाडो						Lado
+लालकौर						Lalkaur
+लिछमी						lichmi
+लीलावती						lilavati
+लीलोदेवी						lilodevi
+वेदवती						Vedavati
+वेदकौर						vedkaur
+विजेन्द्री						vijendri
+शकुन्तला						Shakuntala
+शारदा						sharda
+शालिनी						shaalinee
+शान्ति						shaanti
+शीशपाली						sheeshapaalee
+शंकरीदेवी						shankareedevee
+सतवन्ती						satavantee
+सन्तरा						santara
+सन्दोखी						sandokhee
+सत्तो						satto
+सत्यवती						satyavatee
+सत्यादेवी						satyaadevee
+सतबीरी						satabeeree
+सज्जनकौर						sajjanakaur
+सरती						saratee
+सरबती						sarabatee
+समाकौर						samaakaur
+सन्तोष						santosh
+सन्तो						santo
+सपना						sapana
+सरला						sarala
+सरस्वती						sarasvatee
+सरजो						sarajo
+सरूपी						saroopee
+साहबकौर						saahabakaur
+सिंगारो						singaaro
+सिकन्दरी						sikandaree
+सुखमा						sukhama
+सुखदेई						sukhadeee
+सुनहरी						sunaharee
+सुमित्रा						sumitra
+सुशीला						susheela
+सुहावती						suhaavatee
+सुनहरी						sunaharee
+सूरजमुखी						soorajamukhee
+सूरजकौर						soorajakaur
+सोनादेवी						sonaadevee
+हरदेई						haradeee
+हरकौर						harakaur
+हरकोरी						harakoree
+हरमाया						haramaaya
+हरनन्दी						haranandee
+हरबीर						harabeer
+हरप्यारी						harapyaaree
+हवाकौर						havaakaur
+हुंश्यारी						hunshyaaree
+हूरवती						hooravatee
+हेमलता						hemalata
+ज्ञानदेवी						gyaanadevee
+ज्ञानवती						gyaanavatee
+ज्ञानो						gyaano
+घने सारे आदमियां ने ये अखबार पसंद से						Many people like reading this newspaper
+ये गुरगावां के सारे जग दिखावे है						It covers many sides of Gurgaon
+मन्ने गुरगावां के बारे में बहुत घनी बात बेरा पट्टी						I learn about so many things happening around.
+मन्ने इन दो सालं में हरियानी भी सीख लि						I have even learnt Haryanvi in 2 years
+घर के भित्तर घनिये गरमी है।						It is so hot in the house.  
+भार मादा सा बदिया है।						It is better outside.
+मन्ने घनाय पसंद है बाहर पेड़ की चा मैं बैठना।						I like to sit outside under a shady tree
+मेरा दद्दा रात ने उडेये सोया करे।						My grandfather still sleeps there at night.
+मन्ने ना बेरा उन्ने क्यूकर गरमी ना लागती।						I don't know how he doesn't feel hot
+मन्ने एक बार कोशिश करी थी बाहर सोने की।						I tried to sleep outside once.
+मैं गरमी में मरगया उडे दे और माछरा ने भी खा लिया।						I was killed by the mosquitoes and the heat.
+म्हारे घर ने चोरी हो गई से।						My house has been robbed!
+मेरा सारे रुपये ले के भाजगे।						They have taken all my money.
+मेरे लत्या ने भी ले गए।						They even took away my clothes.
+मैं रैपट करना चाहुं सुन थाने में।						I need to file a complaint at the police station
+भगवान करे वे जल्दी सी कुछ करें।						I hope they act fast.
+सबते धोरे कौन सा थाना से?						Where is the nearest police station.
+मनने वादे ले चल।						Take me there now.
+मन्ने अपना सारा सामान उल्टा चाइये।						I want all my things back
+चोरन ने पकड़ते पीटिये						Beat the thieves when you catch them.
+मेरे सर मैं दर्द हो रा है।						My head is hurting. 
+मेरे तयि एक गोली दे दिए।						Give me a tablet for it.
+मैं किट बाहर ना जा पाउंगा।						I will not be able to go out anywhere.
+के मैं डाकटर ने दिखन तय जाऊ?						Should I go to see a doctor?
+के तू मेरी गल्ला चले गा?						Will you come with me?
+भगवान करे मेरे डेंगू न पावे।						I hope I don't have dengue
+ओह तेरी! डाकटर ने डेंगू बता दिया।						Oh No! Doctor has said I have dengue 
+सब ते धोरे सिक सनेमा किथ से?						Where is the nearest cinema hall?
+मजा आजया बड़िया सी सीट मिल जा ते।						I hope we get good seats.
+घनने दिन ते बात देखन लग रया था इ फिलमने देखन तयिन						I have been waiting to see this movie for so long.
+अरे, यो फिलम कद से खतम होगी?						What time will the film finish?
+घनिये तेज म्हे आरेया है।						It is raining very hard.
+बाग में पाणी भर ग्या है।						The garden is flooded
+मैं काम पे क्यूंकर पांचुंगा?						How will I reach office?
+गले एक छत्री ले जाइए।						Take an umbrella with you.
+ईस मौसम में बाहर का मत खैय्या						Don’t eat out in this weather
+मेरा दोस्त रोड पे रिपट गया।						My friend slipped on the road.
+मैं बाजार जाना चाहूं हुं						I need to go to the market.
+पाया जा शकु हु?						Can I go walking?
+दुकान खुलरी हुन्गी के आज?						Will the shops be open today?
+कोई लट्ट्या की दुकान सेगी के ओडेसिक?						Is there a clothes shop there?
+ओडे ते कोय रिक्शा मिल जेगा के?						Will I get an rickshaw from there?
+मेरा फोन खराब हो गेय से।						My phone has got spoilt.
+दुकान धोरे सिक से के?						Is the shop close by?
+वडे धरना पडेगा?						Do I have to leave it there
+किटनक तैइम लागेगा						How long will it take?
+मन्ने खबर कर दिए जब ठीक हो जा						Call me when it is repaired.
+सकूल बंद होरे हैं						 The schools are shut.
+छुट्टिया में बालक के करेंगे?						What will children do during holidays?
+हम उन्ने बार लेके चलेंगे						We will take them out somewhere.
+उन धोरो कुछ करन तय कोन्या।						They have nothing to do.
+सकुल कढ़ खुलेंगे?						When will they start school?
+मन्ने दोपहरी मैं बाहर जाना से						I need to go out in the afternoon
+तू काम ने संबल लेगा के?						Will you take care of the work?
+कागजान ने भेजन मैं समय मत लगाइए						Don’t delay in sending these papers
+परची लिखवा लाईये						Bring back a receipt
+मेरी जरूरत पड़े ते मन्ने फोन कर दिए						Call me if you need help
+उन् तेह कहिए जरूरी काम से						Tell them it is urgent
+तू 31 की रात ने के करया है?						What are you doing on 31st night?
+के तू शहर ते बार जा से के?						Are you going out of the city?
+मैं अपने घर ने मनौंगा						I am celebrating at home
+के के लेना है?						Can I bring anything?
+सबने नए साल के शुभ कामना						Happy New Year
+म्हारी एक हफ्ते की छुट्टी से।						I have holidays for a whole week.
+इबकी बार मैं शहर तेह बाहर जाना चाहुं सु।						This time I want to get out of the City.
+मेरा बाबा गोवा न जान देता।						My father won't let me go to Goa.
+वे नू सोच से की यादे जाके फस जागा।						He thinks I will get into trouble
+मैं मनन की कोशिश करुण सुन की जान दे।						I am trying to convince him to let me go.
+ना तो मन्ने यादे  बैठे के गवड़ी देखनी पडेगी।						Otherwise I will have to stay here and watch the cows
+अगले चुनब में मैं वोट डालना चाहूं सु।						I want to vote in the next elections.
+यो मैं क्यूकर कर सकु हू।						How can I do that?
+यो वोटर कार्ड के होए हैं?						What is a Voter's card?
+कदे ते बनवाना पडेगा?						Where can I get it made? 
+कीमे कागज़ दिखाने पडेंगे के?						Do I have to show any papers?
+धोरे सिक कौन सा दफ्तर से?						Where is the nearest office?
+वे मेरे ते कीमे सवाल पूछेंगे के?						Will they ask me many questions?
+कार्ड बनान में कितने दिन लागेगें?						How many days will it take to make my card?
+मन्ने इब्ब जादा के लाते ख़रीदने चाहु सु।						I need to buy woollen clothes now.
+मनने कोन से बाजार मैं जाना चाहिये?						Which market should I go to?
+तू भी मेरे गल्ला चल।						You should come with me. 
+मन्ने गुड़गांव रोड का ना पता।						I don't know the Gurgaon roads.
+काल ऐतवर सेगा।						Tomorrow is Sunday.
+चल पिकनिक मनन चलेंगे।						Let us go for a picnic.
+बड़िया मौसम है किट्टे बार जान तय						The weather is good to be out.
+किन किन ने बुलायेंगे?						Who all should we inform?
+रोटी पानी कौन लेके औगा?						Who will get the food?
+हम तड़के जल्दी चलेंगे।						We will leave early in the morning.
+मन्ने लागे सेके जाडे आ गए						I think the winter season is approaching.
+तड़की तड़क घनये जड्डा रेह से।						The mornings are getting very cold.
+मन्ने अपने जाडे के लट्टे काड देने चायिये						I should take my winter clothes out.
+ध्यान रखिये न ते जड्डा लाग जाएगी ताने						You be careful, you might catch a cold.
+याडे बरफ क्या तय न पढती ?						Why doesn't it snow here?
+किसी धोरे कैमरा से?						Does anyone have a camera?
+मन्ने एक फोटो खिचनी से।						I need to take a photograph.
+तन्ने जल्दी इ उल्टा दे दूंगा।						I will return it to you soon.
+यो काम क्योंकर करया करे?						 How does this work?
+चिंता मत करिये। बड़िया तरिया रखूंगा।						Don't worry, I will use it carefully.
+तेरे कैमरे ने घर ने ले जाउ?						Can i take your camera home?
+के मैं मानेजर तय बात कर सकु सु के?						Can I speak to the manager?
+मनने एक शिकायत करनी है।						I have a complaint.
+मनने मेरा बिल नहीं मिल्या इब तयिन।						I have not received my bill yet
+मेरे तय कयी थी के तेरे तय फोन कर लेना।						I was told to call you.
+याडे  मेरी कोई भी मदद न कर्ता।						No one is helping me out at the here.
+धोरे सिक कोई मिठाई की दुकान से के?						Is there a sweet shop close by?
+मन्ने 2 किलो बर्फी चायिसे।।						I want 2 kg of barfi.
+इब्बे बनायी है के?						Have you just made it?
+मेरे तय घाल दे						Can you pack it for me?
+खेंदनी नी चाहिए						Make sure it doesn't fall out.
+सांझ तय रुक जाएगी के?						Will it last till the evening? 
+मैं गडी चलाना सीखना चाहुं सु						I want to learn driving
+धोरे सेक कोई गडी सिखनाला स्कूल सेगे के?						Is there a driving school nearby?
+कितने रुपये ले से?						How much does it charge?
+लाइसेंस दिलवा देंगे के?						Will they help me get a licence?
+आज ते घनये जड्डा से						It is very cold today
+आज का तपमान कितना से						What is the temperature today?
+घनिये धुंध से						It is very foggy
+मन्ने सामी कुछ न दिखाये दे है						I can’t see anything ahead
+इस धुंध में गडी न चले?						Don’t drive in this fog
+धुंध खतम होगी के?						Has the fog cleared?
+कुछ बंदोबस्त कर रख्या  है के होली तय						What are your plans for Holi? 
+मनने ते यो त्यौहार एंडी लागे से.						I really like the festival.
+रंग किथ सिक ते ले के आया करो?						Where do you get the colours from?
+म्हारे गाम में ते बुंदे रंग लगाया करेन।						In our village, we use strong colours. 
+भांग का भी जुगाड़ है के कीमे?						Is there an arrangement for bhang?
+पिचले बार में ते भंग पीगया हस्ते रह गया।						The last time I had bhang, I kept laughing
+म्हारे गाम में ते थके नाले मैं फेक दिया करें।						In my village they throw us into the gutter.
+मैं कुश्ती सीखना चाहुं सु						I want to learn wrestling.
+धोरे सिक खरा किथ से ?						Where is the nearest akhaara?
+मैं घनई पतला सुन के इस्ने सीखु						Am I too thin to learn the sport?
+मन्ने अपनी देई बनानी पदेगी						I will have to work on my health.
+भगवान करे मुझे चोट न लागे						 I hope I don't get hurt.
+मन्ने उठ बड़े आदमियां ते डर लगे से।						I am scared of the big men there.
+मन्ने लगे से मैं यो खेल न सिखू						I think I won't learn this sport after all.
+बया कद से करवा रया है?						When are you getting married ?
+छोरी कौन से वो?						Who is the lucky girl?
+मनने नोटा देना ते न भूल जाएगा।						Do not forget to invite me
+बया पीचे पार्टी देगा के महरे ते?						Will there be a party before the wedding ?
+तेरे बयाह मैं खूब नाचूंगा।						I will dance a lot in your wedding.
+मन्ने बता दिए किथे मदद चाहिये ते।						Let me know if I can help.
+कल बल्ले गेंद खेलन चले?						Let us play cricket tomorrow.
+अरे सारे दोस्तन न बुला लेंगे।						We will call all our friends.
+मैं अपनी टीम का कप्तान बनूंगा						I will be the captain of my team.
+हमें वो बड़ा आला पारक ले लेना चाहिए।						We need to book the big park
+खेलूं का सामान कौन ल्यावेगा?						Who will get the sporting equipment?
+हम घनने दिन ते खेले कोने एक साथ।						We haven't played together in such a long time
+मैं ते लॉटरी टिकट खरीदुन जायुं  सू						I am going to buy a lottery ticket.
+पहला इनाम मै जीतुंगा।						I will win the first prize.
+रप्या गल्ला के करेगा?						What will you do with the money?
+मैं ते एक नई बड़ी गाड़ी लाउंगा।						I will buy a new big car.
+मन्ने अपनी गाड़ी चलाने दे देगा के?						Will you let me drive your car?
+मैं अपना रास्ता भूल गया।						I have lost my way. 
+मेरी रोड तय पोंचन में मदद कर दे।						Can you help me reach the main road?
+मेन सेक्टर पंच ने धुंदन लग्र्या जल्द ही।						I am looking for Sector 5.
+येद्दा कोई भी मदद तय न रुकता।						Nobody stops to help here.
+मनने इब रोड याद आ गया अपना।						Now I remember this road.
+दफ्तर कितने बजे खुल्या करे?						What time does the office open?
+मन्ने एक फारुम चाहिये से.						I need a form.
+मैं याद इस्ने भरके जामा कारा शकु हुं?						Can I fill it and submit it here?
+और कोई कागज तो न चाहिए?						Do you need any other documents?
+मेरे समझ में ना आती की यो के लिख रख्या है						I can’t understand what is written here.
+म्हारा दप्तार बंद हो गया।						My office has shut down.
+मन्ने एक नया धंदा चाहिये से						I need a new job.
+के तू मेरे तैयं अपने दपतार मैं बात कर सके से						Can you refer me to your company?
+मैं अपने कागज भेज दूं ओदे?						Can I send my papers there?
+थारा दफ़्तर कितनी दूर से?						How far is your office?
+के मैं तेरे साब ते मिल सकू हु						Can I meet your boss?
+मैं दस बजे तैयं जाना चाहुं						I want to leave by 10 in the morning. 
+बीस दोस्त खाना खां तयं आओन्गे						20 friends are coming for dinner.
+म्हारे कार्यालय मे तीस लॉग से						There are 30 people in my office.
+वे चालीस दिन के पिचे आओगा।						He will return after 40 days.
+उसकी किलास मैं पचास बालक से						There are 50 children in his class.
+म्हारा बाप साथ साल का से						My father is 60 years old.
+मेरी अलमारी ने सुथरी कर दीये						Clean my cupboard
+मेरी जुरब ख़ूगी						My socks are missing
+काल तू जल्दी क्यों नहीं आजा?						Why don't you come early tomorrow?
+काल छुट्टी कौनिये						Tomorrow is not a holiday
+रोटी कद सिक बनावेगा?						When will you cook the food?
+आज मैं ऑफिस को ना आयुं						I am not coming to office today
+कागज ने घर ने लेके आ सके?						Can you bring the papers home?
+म्हारा कंप्यूटर काम कोना कर रहा						My computer is not working
+मने वे फाइल चाहिए						I need those files
+घंटे बाद फोन करिये						Call me after an hour
+काल बात करेंगे						Let us discuss this tomorrow
+मने एक साल पुरा हो गया दफ़्तर में।						I have completed one year at the office. 
+मने तरकी भी मिली से।						I have got a promotion.
+तू गाड़ी लेके घर ने आजा।						Get your car and come home.
+हम मस्ती करेंगे						We will celebrate.
+मन्ने किराय पे कामरा चाहिए						I need to rent a flat
+मनने वो दलाल किट मिलेगा?						Where can I find an agent?
+बीच में पेसे लेगा के?						Does he take money?
+मनने तीन कामरे का घर दीखा दे						Show me a 3 room house
+किरया बूथ घन्ना है						The rent is too high
+मैं मकान मालिक ते कद मिल शकु हूं?						When can I meet the landlord?
+धोरे सिक बैंक कौन सा है?						Where is the nearest bank?
+मन्ने अपना खाता खुलवाना है						I want to open an account
+नई चेक बुक क्यूंकर मिलेगी?						How do I get a new cheque book?
+मैं पैसे लिकड़वाना चाहुं						I want to withdraw cash
+बैंक को धने सिख बंद होगा?						When does the bank close?
+के आज बैंक की छुट्टी है रे?						Is it a bank holiday today?
+सबते धोरे कुनसा थाना है?						Which is the nearest Police Station?
+रपोट  क्योंकर लिखवाउ ?						How do I file an FIR?
+कौन से साब ते बात करूं?						Which officer can I talk to?
+मन्ने बेरा कद दो गे?						When will you get back to me?
+मेरे पता ठिकाना लिख ​​लो						Take my contact details
+चोर पक्कड़ लिया के नहीं?						Have you found the robber?
+टिकट किटनेक का है?						How much are the tickets for?
+मन्ने पहली लाइन आली सीट न चाहिए						I don’t want front row seats
+फिल्लम किटनीक बाजे खतम होगी?						What time will the show end?
+चाट पापडे किट सिक मिलेगी??						Where can I get snacks?
+मन्ने मेरी सीट दीखा दे गा?						Can you show me to my seat? 
+मन्ने फोन लगवाना है						I need a telephone connection
+कितने दिन लागेन्गे फोन चालू होने में?						How many days will it take to get connected?
+इस तहिन कुन से कागज़ चाहिए?						What documents do I need for it?
+पासपोर्ट लेना है?						Do I need to take my passport?
+फोन का दफ्तर किट सिक है						Where is the telephone exchange? 
+मन्ने एक दिन ताहिन गद्दी चाहिए						I need a car for the day
+बिजली घर क्यूकर पोहचुन?						How do I get to the electricity office?
+मनने अपना बिल भरना है						I need to pay my bill
+मन्ने अफसर ते मिलना है						I want to meet the officer-in-charge
+के टैम हो रहा है?						What time is it?
+दोफरे के दो बज रे हैं						It’s two ‘o’ clock in the afternoon
+सिनेमा हॉल कद खुले गा?						When does the cinema hall open?
+रोटी कद दे गा?						When will you serve lunch?
+तड़के जल्दी जाना है मन्ने						I want to leave early morning
+एक बे और कहिये						Please repeat that
+मैं घरान जा हुं						I am going home
+मेरी समझ में न आया						I do not understand
+घन्नी तेज मत बोले						Please do not speak fast
+मेरी कद मैं दर्द है						I have a pain in my back
+मेरे थड्डा बुखार चढ रहा है						I have high fever
+मेरे के हस्तपातल जाना पडेगा के?						Do I have to go to the hospital?
+मेरे धोरे मेडिकल इंश्योरेंस है						I have medical insurance
+ये देवाई कद कद लेनी है?						When do I take these medicines?
+दुकान कितने बजे खुलें गी?						At what time does the store open?
+क्रेडिट कार्ड ले ले है के?						Do you accept credit cards?
+फोटो कीच ल्यों के?						Can I take Photographs? 
+याडे सिगरेट पी सकते हैं के?						Can I smoke here?
+खाने मैं घन्ना मसाला मत डालिये						Make the food less spice
+म्हारी फोटु ले सके है के?						Can you take our picture?
+दरवाजे  पै कुन्न है?						Who is at the door?
+कवाड़ खोल दे						Open the door
+बालकां ने खा लिया?						Have the children eaten? 
+ड्राइवर ने दफ्तर भेज दे						Send the driver to the office
+गनी तेज़ मत चलावे						Don’t drive too fast
+बेडरूम साफ कर						Clean the bedroom
+बाथरूम भुण्डा है						The bathroom is dirty
+दोपहररे एक मेहमान आवेगा						A guest will come at noon
+चा दे दे इसने						Offer him some tea
+मेरे नापेय का या मिल जा गा?						Do you have this in my size?
+इसका कितना ले गा						How much is this for?
+यो टे घन्ना मेहेंगा है						That is too expensive
+मैं ते कुछ सस्ता सा चाहिए						I am looking for something cheaper
+तू मने दोखा दे है						You are cheating me
+मने ना लेना यो						I am not buying this
+एक झोला मिल जा गा?						Can I have a bag?
+मेनू दीखा दे						Can I have a look at the menu?
+मैं ते शकहारी हूं						I am a vegetarian
+मैं चिकन ना खाया करु						I don’t eat chicken
+एक गिलास पानी मिलेगा?						Can I have a glass of water?
+मेज़ साफ कर दे						Please clear the table
+चाय मिल जा गी के?						Can I have some tea?
+मन्नी बड़िया होटल में जाना है						I need to go to a good hotel
+कोई कामरा खाली है के?						Do you have any rooms available?
+रूम सर्विस है के?						Is there room service?
+कमरा साफ कर दे						Please clean my room
+मन्नी दस बजे जगा देगा के						Can you wake me up at 10 am?
+अमेरिकी डॉलर चल जायेगे  के?						Do you accept American dollars?
+मेरा बटुवा खु गया है						I lost my wallet
+मने छोटा होटल किट मिलाइगा?						Where do I find a small hotel?
+मैं एक तंदूरी रेस्टोरेंट में जाना चाउ						I want to go to a Tandoori restaurant
+येदे रुक जा						Stop here please
+मने हवाई अडे ले चाल						Take me to the airport
+मने गाडी किरये पे लेनी है						I want to rent a car
+मेरी मदद करेगा?						Can you help me?
+इमरजेंसी होरी हा						It is an emergency
+मैं बीमार हूं						I am sick
+मेरे चोट लाग री है						I have been injured
+मन्ने डॉक्टर चाइये						I need a doctor
+एम्बुलेंस बुला दे						Please call an ambulance
+जल्दी करेगा के?						Can you hurry up?
+तेरे ते मिलके बड़िया लाग्य						Nice to meet you
+मैं घन्ना शर्मिंदा हूं						I am sorry
+अच्छा भाई फेर मिलें गे						Goodbye/See you 
+मेरा फोन खु गया						I lost my phone
+मन्ने टैक्सी चाइये						I need a taxi
+अखबार						newspaper
+बदिया						good
+बदिया						better
+रात						night
+बहार						outside
+रुपये						money
+थाणे						police station
+रपट						file
+चोरान						thieves
+गोली						tablet
+सनेमा						cinema
+खतम						finish
+बाग						garden
+छत्री						umbrella
+बाजार						market
+दुकान						shops
+सकूल						schools
+बालक						children
+छूटिया						holidays
+दोपहरी						afternoon
+संबाल						take care
+कागज़						documents
+कागज़						papers
+जरूरी						urgent
+नए साल						New Year
+हफ्ते						week
+चुनाब						elections
+ऐतवार						Sunday
+बरफ						snow
+काम						work
+शिकायत						complaint
+मदद						helping
+मिठाई						sweet
+किलो						kg
+तपमान						temperature
+धुन्ध						foggy
+धुन्ध						fog
+तौहार						festival
+जुगाड़						arrangement
+नाले						gutter
+कुश्ती						wrestling
+खेल						sport
+छोरि						girl
+बैट बॉल						cricket
+कल						tomorrow
+कप्तान						captain
+इनाम						prize
+गाड़ी						car
+दफ्तरी						office
+साब						boss
+बीस						20
+बीस						twenty
+तीस						30
+तीस						thirty
+चालीस						40
+चालीस						Forty
+पचास						50
+पचास						fifty
+किलास						class
+साथ						60
+साथ						sixty
+बाप						father
+जल्दी						early
+घंटे						hour
+साल						year
+इक						one
+इक  साल						one year
+तरकि						promotion
+दलाल						agent
+तीन						3
+तीन						three
+किराया						rent
+मकान मालिक						landlord
+साब						officer
+चोर						robber
+तेज						fast
+बुखार						fever
+देवई						medicines
+दूकान						store
+फोटू						Photographs
+फोटू						picture
+मेहमान						guest
+चाय						tea
+मेहंगा						expensive
+झोला						bag
+शकहारी						vegetarian
+पानी						water
+दस						10
+दस						Ten
+बटुवा						wallet
+छोटा						small
+बीमार						sick
+Namaskaram						Hello 
+Namaskaram						Hi
+के नाम स तेरा?						What is your name?
+Tu Bawli Tared hai!						You are Crazy
+Suthra lag raha hai aaj to						You are looking handsome today.
+Wo bahut suthri lagti hai hamesha						She always looks very pretty
+Apna yaadi hai ye.						He is my best friend
+Ye bacche bahut oout hai						Kids are notorious
+Mast khosde hai						Those are nice shoes
+Usko gandako se dar lagta tha						She was afraid of dogs
+India me bahut se pariwar ka sahara dangar hai						Many families in India depend on livestock for survival
+Kya kasoota shot mara hai						What an amazing shot
+Girene se uska bhobra foot gaya						His skull was broken from falling
+He is very irritating						Bhadak hai wo banda
+Picture bahut andy thi.						Movie was kickass
+Bahut bhoondi tasveer thi.						That way a very ugly painting
+Gardar tarike se kaam kar raha tha wo						He was doing some excellent work
+Bahut marod hai usme						She had some attitude problem
+Kuch bando ko rifalne ki aadat hoti hai						There are some people, who like to show off.
+Hima Das ne Challa hi paad dia						Hima Das has done wonders
+रपिये						Money
+पीसे						Money
+कुणबा						Family
+लत्ता						cloth
+कत्याब						book
+सोदा						deal
+मोल						cost
+सला						advise
+पं।ख						fearhers
+सुपना						Dream
+खाब						dream
+पंखड़ी						wings
+सिट्टी						whistle
+मुकार्र						smell
+बांस						bad smell
+सोन्ना						gold
+बाळ						air
+बाळ						hair
+धोळा						white
+रैजी						Agree
+लउ						Blood
+बंद						Ban
+बोल बतळा						talk
+बोलि						bid
+बांडना						partake
+टोणा						find
+अस्तीफा						Resign
+टाळा						lock
+भै						fear
+लात						kick
+जमा						add
+जयहर						Poison
+काळ						Death
+सुभा						behaviour
+कटपुतळी						puppet
+सतराक						Beware
+चोक्कस						Beware
+बमार						ill
+राह						way
+लैनटन						lamp
+बल्लफ						bulb
+समुंदर्र						sea
+सरदर्द						Headache
+पार्रटी						party
+दैहसत						panic
+दांद						Tooth
+बकवैद						Nonsence
+नासकरणा						Fatal
+चैन						Relief
+अडांस						Difficulty
+माळी						Gardener
+हम्त्यान						Examination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+छांटणा	:	Being oversmart 
+कदन	:	day
+अलग	:	different
+कररए	:	do
+कुवाड	:	door
+नीचे	:	down
+धरती	:	earth
+खाना	:	eat
+खतम	:	end
+बोहत	:	enough
+सारे	:	every
+उधारन	:	example
+आख	:	eye
+मुह	:	face
+कुणबा	:	family
+पेर	:	foot
+धोडा	:	few
+पाया	:	find
+पहला	:	first
+खाणा	:	food
+पाणा	:	get
+छोरी	:	girl
+देणा	:	give
+जाणा	:	go
+आच्या	:	good
+माहण	:	great
+बडना	:	grow
+था	:	Had
+करडा	:	hard
+सुनाया	:	hear
+मदद	:	help
+ऊचा	:	high
+ताता	:	hot
+घर	:	house
+मै	:	I
+जवचार	:	Idea
+जरूरी	:	Important
+चीज	:	Item
+राखीए	:	Keep
+दयालु	:	Kind
+जपछाणा	:	Know
+धरती	:	Land
+बडा	:	Large
+आखरी	:	Last
+बादम	:	Later
+सीखणा	:	Learn
+छोडीए	:	Leave
+बाया	:	Left
+चालो	:	Let
+चीठी	:	Letter
+जींदगी	:	Life
+रोशनी	:	Light
+जीसा	:	Like
+लन	:	Line
+प्रची	:	List
+थोडा	:	Little
+जीणा	:	Live
+लाम्बा	:	Long
+देजखए	:	Look
+खोया	:	Lose
+बनानाणा	:	Make
+आदमी	:	Man
+घणे	:	Many
+मतलब	:	Mean
+जमलणा	:	Meet
+बीचम	:	Mid
+दधू	:	Milk
+गलती	:	Mistake
+ज्यादा	:	More
+मााँ	:	Mother
+पाड	:	Mountain
+चाल	:	Move
+बोत	:	Much
+कुहणी	:	elbow
+कोणी	:	elbow
+पट्ट	:	thigh
+झोटा	:	masculine
+सीळै	:	soft weather
+एड्डी	:	Heel
+आबल	:	More
+आड	:	for hiding
+आढळ	:	cover-up 
+आहलणा	:	Nest 
+आहो	:	Yes
+आख्यर	:	Extreme
+तावळा	:	Fast
+चिकणा	:	Smooth
+लुगाई	:	Ladies
+सपोड़ा	:	Slapping
+घाम	:	Sunlight
+घणा	:	Very
+डांगर	:	Animal
+मूसा	:	Rat
+गंडा	:	Sugarcane
+झोला	:	Basket
+खाट	:	Bed
+बारणा	:	Gate
+एल्डगोजा	:	Flute
+बालाड	:	Ox
+बलध	:	Bull
+बलियां	:	Baniyaan
+बाराफ़ी	:	ice-cream
+बीजना	:	Hand fan
+भरोटा	:	bajra
+बुखारी	:	fever
+चमसा	:	Rainy season
+चिपकली	:	Lizard
+चुचुंदर	:	Bat
+च्यानहनी	:	Funeral place
+डाक	:	Jump
+दम्हुई	:	Double headed 
+डैंडरी	:	Childs teeth
+डांगार	:	Animal stock
+धीड़	:	Drainage
+धीरा	:	Headlice
+धिदाय	:	Eye
+धूमा	:	Smoke
+डूबो	:	grass
+गाली	:	abuse
+गभा	:	Old
+गबसुआ	:	Safety pin
+गंडे	:	Sugarcane
+जिएंडो	:	Ball
+घैती	:	Neck
+गूथी	:	Ring
+गोसा	:	Dungcake 
+जादा	:	winters
+जर्सी	:	 sweater
+जंगल	:	forest
+जुर्राब	:	Socks
+कागो	:	Crow
+खुरमा	:	Aunt
+कालाशो	:	Kajal
+करेलकांति	:	Chameleon
+कसानो	:	Utensil
+खांचा	:	 mud
+खासोतनी	:	Itching
+खाज	:	Itching
+खाती	:	Cot 
+खुता	:	 hope
+किवाडी	:	Door
+कूट्रु	:	Dog
+कुंडी	:	Darwja
+कुंडा	:	Darwja
+लप्सी	:	Dish
+लाटे	:	Clothes
+लीटर	:	Seet
+लिहाफ़	:	Quilt
+लंदन	:	London
+मीहो	:	Rain
+मुंजिक	:	miser
+नाहु	:	Nails
+ओले	:	Hails
+ऊटी	:	Naughty
+पादकला	:	Staircase
+राचो	:	Things.
+रासा	:	 rope
+रासी	:	 rope
+रीत	:	Snort
+साग	:	Vegetable
+सकली	:	Door nob
+साँप	:	Snake
+सागाई	:	engagement
+सउद	:	Quilt
+श्याना	:	Clever 
+सुथानी	:	shorts
+टूकानि	:	Shiny 
+ट्यूबल	:	Tubewell
+यादी	:	Friend
+दुरू	:	Away
+पिचहे	:	Back
+बुरा	:	Bad
+प्रतिबंध	:	Ban
+क्योंकि	:	Because
+होना	:	Become
+बिस्तर	:	Bed
+शुरुकर्ण	:	Begin
+ताक	:	Below
+बारा	:	Big
+पुस्तक	:	Book
+डोनो	:	Both
+लरका	:	Boy
+लाना	:	Bring
+परांतु	:	But
+लेकिन	:	But
+द्वार	:	By
+बुलाना	:	Call
+सकना	:	Can
+कनास्टर	:	Canister
+कर	:	Car
+बदलाना	:	Change
+बच्चे	:	Children
+शहर	:	City
+बैंड	:	Close
+ठंडा	:	Cold
+आना	:	Come
+कफ	:	cough
+देश	:	country
+कटना	:	cut
+दैनिक	:	daily
+शोर	:	day
+भिन्नी	:	different
+दरवाजा	:	door
+ताक	:	down
+चींटी	:	end
+पर्यपति	:	enough
+प्रत्यय	:	every
+उड़ानारणी	:	example
+आंख	:	eye
+चेहरा	:	face
+परिवार	:	family
+जोड़ा	:	foot
+पाना	:	find
+प्रथम	:	first
+भोजन	:	food
+पाना	:	get
+देना	:	give
+जना	:	go
+अच्छा	:	good
+महान	:	great
+समुहू	:	group
+बदना	:	grow
+कैथिन	:	hard
+हाय	:	has
+वही	:	he
+महोदय	:	head
+सुनाना	:	hear
+याहानी	:	here
+ऊंचा	:	high
+गरमी	:	hot
+घरो	:	house
+कैसे	:	how
+विचार	:	Idea
+यादी	:	If
+महात्वपूर्ण	:	Important
+वास्तु	:	Item
+रखना	:	Keep
+दयालू	:	Kind
+जनाना	:	Know
+भूमि	:	Land
+विशाल	:	Large
+एंटिमो	:	Last
+छोडना	:	Leave
+बाएने	:	Left
+चलो	:	Let
+पात्रा	:	Letter
+चिट्ठी	:	Letter
+जीवन	:	Life
+जिंदगी	:	Life
+प्रकाश	:	Light
+पसंद	:	Like
+रेखा	:	Line
+सुची	:	List
+जीना	:	Live
+लांबा	:	Long
+नज़र	:	Look
+रूप	:	Look
+खोना	:	Lose
+मुखी	:	Main
+प्रधान	:	Main
+केला	:	Make
+अनेक	:	Many
+बहुतो	:	Many
+मिलना	:	Meet
+मध्य	:	Mid
+दुध	:	Milk
+गलत	:	Mistake
+अधिक	:	More
+ज्यदा	:	More
+मां	:	Mother
+पहाड़ो	:	Mountain
+चलना	:	Move
+बहुत	:	Much
+मेरा	:	My
+रास्ता	:	near
+जरूरत	:	need
+रपिये	:	Money
+पीसे	:	Money
+कुणबा	:	Family
+लत्ता	:	cloth
+कत्याब	:	book
+सोदा	:	deal
+मोल	:	cost
+सला	:	advise
+पं।ख	:	fearhers
+सुपना	:	Dream
+खाब	:	dream
+पंखड़ी	:	wings
+सिट्टी	:	whistle
+मुकार्र	:	smell
+बांस	:	bad smell
+सोन्ना	:	gold
+बाळ	:	air
+बाळ	:	hair
+धोळा	:	white
+रैजी	:	Agree
+लउ	:	Blood
+बंद	:	Ban
+बोलि	:	bid
+बांडना	:	partake
+टोणा	:	find
+अस्तीफा	:	Resign
+टाळा	:	lock
+भै	:	fear
+लात	:	kick
+जमा	:	add
+जयहर	:	Poison
+काळ	:	Death
+सुभा	:	behaviour
+कटपुतळी	:	puppet
+सतराक	:	Beware
+चोक्कस	:	Beware
+बमार	:	ill
+राह	:	way
+लैनटन	:	lamp
+बल्लफ	:	bulb
+समुंदर्र	:	sea
+सरदर्द	:	Headache
+पार्रटी	:	party
+दैहसत	:	panic
+दांद	:	Tooth
+बकवैद	:	Nonsence
+नासकरणा	:	Fatal
+चैन	:	Relief
+अडांस	:	Difficulty
+माळी	:	Gardener
+हम्त्यान	:	Examination
