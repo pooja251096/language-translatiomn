@@ -13990,7 +13990,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -14300,7 +14301,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -14610,7 +14612,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -14920,7 +14923,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -15230,7 +15234,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -15540,7 +15545,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -15850,7 +15856,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -16160,7 +16167,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -16470,7 +16478,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -16780,7 +16789,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -17090,7 +17100,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -17400,7 +17411,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -17710,7 +17722,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -18020,7 +18033,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -18330,7 +18344,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -18640,7 +18655,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -18950,7 +18966,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -19260,7 +19277,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -19570,7 +19588,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -19880,7 +19899,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -20190,7 +20210,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -20500,7 +20521,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -20810,7 +20832,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -21120,7 +21143,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -21430,7 +21454,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -21740,7 +21765,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -22050,7 +22076,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -22360,7 +22387,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -22670,7 +22698,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -22980,7 +23009,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -23290,7 +23320,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -23600,7 +23631,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -23910,7 +23942,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -24220,7 +24253,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -24530,7 +24564,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -24840,7 +24875,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -25150,7 +25186,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -25460,7 +25497,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -25770,7 +25808,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -26080,7 +26119,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -26390,7 +26430,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -26700,7 +26741,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -27010,7 +27052,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -27320,7 +27363,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -27630,7 +27674,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -27940,7 +27985,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -28250,7 +28296,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -28560,7 +28607,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -28870,7 +28918,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -29180,7 +29229,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -29490,7 +29540,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -29800,7 +29851,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -30110,7 +30162,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -30420,7 +30473,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -30730,7 +30784,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -31040,7 +31095,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -31350,7 +31406,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -31660,7 +31717,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -31970,7 +32028,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -32280,7 +32339,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -32590,7 +32650,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -32900,7 +32961,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -33210,7 +33272,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -33520,7 +33583,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -33830,7 +33894,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -34140,7 +34205,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -34450,7 +34516,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -34760,7 +34827,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -35070,7 +35138,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -35380,7 +35449,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -35690,7 +35760,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -36000,7 +36071,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -36310,7 +36382,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -36620,7 +36693,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -36930,7 +37004,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -37240,7 +37315,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -37550,7 +37626,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -37860,7 +37937,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -38170,7 +38248,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -38480,7 +38559,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -38790,7 +38870,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -39100,7 +39181,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -39410,7 +39492,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -39720,7 +39803,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -40030,7 +40114,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -40340,7 +40425,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -40650,7 +40736,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
@@ -40960,7 +41047,8 @@
 चैन	:	Relief
 अडांस	:	Difficulty
 माळी	:	Gardener
-हम्त्यान	:	Examinationछांटणा	:	Being oversmart 
+हम्त्यान	:	Examination
+छांटणा	:	Being oversmart 
 कदन	:	day
 अलग	:	different
 कररए	:	do
